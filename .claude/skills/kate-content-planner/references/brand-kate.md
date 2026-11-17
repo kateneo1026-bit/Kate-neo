@@ -41,8 +41,9 @@
 | 4. Helpful home | Renter-friendly fixes, cosy on a budget, small-space tricks, organisation | Home and decor shops |
 | 5. Guides | Carousels: maps, itineraries, "save this" lists, gift guides | Mixed, highest saves |
 
-**Weekly balance:** ~40% travel and food (pillars 2+3), ~40% home (1+4), ~20% guides (5).
-Shift it based on what converts.
+**Weekly balance (4 Reels + 1 Carousel):** default = Reel for routines (1), Reel for hidden places (2),
+Reel for hidden tables (3), Reel for helpful home (4), Carousel for a guide (5). Shift it based on what converts,
+but keep at least 1 travel and 1 home Reel every week.
 
 ## Recurring series (create habit and anticipation)
 - **"Hidden Story No. X"**: the story behind a place, object or tradition. Number them, because numbers make people want to collect them all.

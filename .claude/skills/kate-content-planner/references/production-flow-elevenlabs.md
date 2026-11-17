@@ -13,12 +13,13 @@
 ### Weekly credit budget (default plan)
 | Item | Clips | Credits (Lite) |
 |---|---|---|
-| 5 Reels × 4 clips | 20 | 200 |
-| Re-dos (things go wrong) | 6 | 60 |
-| Story clips (reuse leftovers + stills) | 7 | 70 |
-| **Total** | **33** | **~330 of ~350** |
+| 4 Reels × 4 clips | 16 | 160 |
+| Re-dos (things go wrong) | 4 | 40 |
+| Story clips (reuse leftovers + stills) | 5 | 50 |
+| Carousel (8–11 slides) | images | check image cost |
+| **Total** | **~25** | **~250 of ~350** (≈100 spare: start next week early) |
 
-**Daily batching:** 5 clips per day. Generate tomorrow's reel today. Carousels and most Stories use **images** and reused reel frames.
+**Daily batching:** one Reel (4 clips) per day, the day before it's posted. The Carousel and most Stories use **images** and reused reel frames. Spare credits at the end of the week go to next week's Reel 1.
 
 ### Stretch the credits
 - One 8-second clip → **2–3 shots**: cut it, crop it, slow it down (speed 0.8×), reverse it.
@@ -60,7 +61,7 @@ Until then: make reels with **text on screen + music only**, or use the voice on
 - Suggested settings: **Stability 45–55 · Similarity 75 · Style 10–20 · Speed 0.90–0.95**. Use the newest multilingual model.
 - Text tricks: `…` for a pause, short sentences, write numbers as words ("twenty-five minutes"), put stress words on their own line.
 - Length: **~2.3 words per second**, so a 25-second reel needs ~55–60 words.
-- Credits: free ≈ 10,000 characters/month (≈ 10 minutes). One week of VO ≈ 5 × 350 chars = ~1,750 chars.
+- Credits: free ≈ 10,000 characters/month (≈ 10 minutes). One week of VO ≈ 4 × 350 chars = ~1,400 chars.
 
 ## Edit in Instagram (free)
 1. Upload the clips in order and trim each to 2–4 seconds.

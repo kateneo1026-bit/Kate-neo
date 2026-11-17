@@ -47,7 +47,7 @@
 | **Tribe** | "This is my place" | Stories every day, polls, Broadcast Channel, Sunday Reset ritual, replying to DMs, naming them "the quiet ones" | Story replies, DMs, shares, returning viewers |
 | **Buyer** | Click and book/buy | Keyword DMs, Story link stickers, numbered link-in-bio, guides | Link clicks, affiliate conversions |
 
-**Rule of thumb for a week:** 3 discover posts, 2 follow/tribe posts, 2 buy posts (carousel guides + deal reel). Every post still has a CTA.
+**Weekly mix (fixed format: 4 Reels + 1 Carousel):** 2 discover Reels, 2 follow/tribe Reels, 1 buy Carousel. Every post still has a CTA, and Stories add a link sticker every day.
 
 ## Daily Story rhythm (3 per day)
 1. **Morning (07:30): mood.** A calm clip or still (coffee, window, rain), with a poll or "Quiet Question".

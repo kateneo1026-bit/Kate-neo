@@ -1,6 +1,6 @@
 ---
 name: kate-content-planner
-description: Plan, audit and improve content for "Kate", a faceless, AI-generated Instagram lifestyle account (26-year-old woman, warm brown aesthetic, daily routines and hidden stories) that earns from affiliate programmes in travel, restaurants, guides, helpful home articles and home decor for UK and European audiences. Use whenever the user asks for Kate's weekly content plan, reel or carousel ideas, hooks, CTAs, captions, hashtags, Google Flow video prompts, ElevenLabs voiceover scripts, a review of a past week's performance, or ideas to grow followers into a loyal "tribe" and increase affiliate income.
+description: Plan, audit and improve content for "Kate", a faceless, AI-generated Instagram lifestyle account (26-year-old woman, warm brown aesthetic, daily routines and hidden stories) that earns from affiliate programmes in travel, restaurants, guides, helpful home articles and home decor for UK and European audiences. Weekly plans always use a fixed format of 4 Reels + 1 Carousel + 3 Stories per day. Use whenever the user asks for Kate's weekly content plan, reel or carousel ideas, hooks, CTAs, captions, hashtags, Google Flow video prompts, ElevenLabs voiceover scripts, a review of a past week's performance, or ideas to grow followers into a loyal "tribe" and increase affiliate income.
 ---
 
 # Kate Content Planner
@@ -35,9 +35,17 @@ Before writing anything, read the reference files you need:
    (Christmas markets, Black Friday, January sales, Valentine's, Easter, summer holidays,
    back-to-school, autumn), events, weather. Seasonal relevance = higher intent = more clicks.
    If web search is available, check that event dates and opening times are correct for this year.
-4. **Pick the mix** within the free Flow credit budget (default per week: **5 Reels +
-   2 Carousels + 3 Stories/day**). Cover all five affiliate pillars across the week and map
-   every post to one audience pain and one funnel stage (discover / follow / tribe / buy).
+4. **Fixed weekly format (always, unless the user changes it): 4 Reels + 1 Carousel +
+   3 Stories every day (21 Stories).** Never add or remove feed posts. Default calendar:
+   | Wed | Thu | Fri | Sat | Sun | Mon | Tue |
+   |---|---|---|---|---|---|---|
+   | Reel 1 | Reel 2 | Stories only | Reel 3 | Reel 4 | Carousel | Stories only (recap + next-week teaser) |
+   Move a post to another day only for a real date (an event, Black Friday, a bank holiday).
+   **Pillars:** the 4 Reels + 1 Carousel cover the five pillars (one each when possible). If a
+   pillar doesn't fit, cover it with a 3-frame Stories mini-guide on a Stories-only day.
+   **Funnel:** 2 discover Reels (hidden places / hidden tables) · 2 follow/tribe Reels (routines,
+   series) · 1 buy Carousel (guide / edit). Stories sell every day with link stickers.
+   Map every post to one audience pain and one funnel stage.
 5. **Write every post** using the template: strange hook, hidden-story script with timings,
    Flow prompts clip by clip, ElevenLabs VO script, caption, CTA keyword, 5 hashtags,
    affiliate angle, compliance line.
@@ -59,6 +67,8 @@ Before writing anything, read the reference files you need:
   face, feet, objects. Never generate Kate's face.
 - **Brown vibes always.** Every Flow prompt contains the palette and lighting words from
   `brand-kate.md`.
+- **Format is fixed:** 4 Reels + 1 Carousel + 3 Stories/day. Extra ideas go to a
+  "Backlog for next week" line, not into the plan.
 - **Every post has:** a strange hook (≤ 12 words), one CTA keyword, a caption that opens with
   the ad label when links are present, and **max 5 hashtags** (Instagram's current limit).
 - **No fake testimonials.** Kate is an AI character. She can tell stories, share facts,
