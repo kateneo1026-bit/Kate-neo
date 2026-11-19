@@ -8,6 +8,7 @@ Ce dépôt sert à planifier le compte Instagram **Kate** en quelques minutes pa
 |---|---|
 | `.claude/skills/weekly-plan/` | Crée le plan de la semaine : 3 reels, 2 carrousels et 3 stories par jour |
 | `.claude/skills/weekly-review/` | Analyse tes résultats et te dit quoi refaire, quoi arrêter, puis propose la semaine suivante |
+| `.claude/skills/daily-review/` | Chaque matin : analyse les chiffres d'hier, améliore le post du jour et te donne ta checklist |
 | `hooks/hooks-library.md` | 30 formules d'accroche réutilisables |
 | `tracking/results.csv` | Tes chiffres, post par post |
 | `content-plan/` | Les plans de chaque semaine |
