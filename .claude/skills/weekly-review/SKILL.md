@@ -6,7 +6,7 @@ description: Read tracking/results.csv for the "Kate" Instagram account, say wha
 # Weekly review for "Kate"
 
 ## 1. Read the data
-- Open `tracking/results.csv`. Columns: `date,type,topic,hook,views,saves,shares,comments,new_followers,notes`.
+- Open `tracking/results.csv`. Columns: `date,type,topic,hook,views,viewers,likes,saves,shares,reposts,comments,new_followers,avg_watch_time,notes` (empty = not recorded).
 - Ignore rows where `views` is empty: they're planned posts that haven't been posted yet or have no numbers yet.
 - Focus on the last 7 days, and compare them with older rows if there are any.
 

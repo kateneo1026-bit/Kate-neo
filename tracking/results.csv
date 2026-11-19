@@ -1,6 +1,18 @@
-date,type,topic,hook,views,saves,shares,comments,new_followers,notes
-2026-11-23,reel,Lifestyle: a slow morning in brown tones,A slow morning in brown tones.,,,,,,
-2026-11-24,carousel,Lifestyle: things in my home that feel like they have a story,Things in my home that feel like they have a story.,,,,,,
-2026-11-25,reel,Hidden story: St Dunstan-in-the-East church garden (London),There's a garden hidden inside a church in London.,,,,,,
-2026-11-27,reel,Lifestyle: one window seat that feels like a secret,One window seat in [city] that feels like a secret.,,,,,,
-2026-11-28,carousel,Hidden story: 6 hidden things in London most people walk past,Most people walk past these 6 things in London without noticing.,,,,,,
+date,type,topic,hook,views,viewers,likes,saves,shares,reposts,comments,new_followers,avg_watch_time,notes
+2026-11-10,reel,Hidden story: a little pastry with centuries of history (Lisbon),A little pastry. A centurie…,,,2,1,0,1,1,,,Views/viewers not in screenshots
+2026-11-12,reel,Hidden story: why afternoon tea started,Afternoon tea started beca…,,109,3,1,0,2,1,,,Most reposts + only recent comment
+2026-11-13,reel,Hidden story: London's most famous bell had to be made twice,London's most famous bell …,,108,1,0,0,1,0,,,
+2026-11-14,reel,Hidden story: a London shop built from two warships,A London shop built from t…,,334,9,2,1,1,0,,,"Best post: most viewers, likes, shares"
+2026-11-15,reel,Hidden story: ladies didn't enter London's coffeehouses,Ladies didn't go into Londo…,,111,1,2,0,1,0,,,Most saves (tied)
+2026-11-15,story,Hidden story: ladies didn't enter London's coffeehouses,(no caption),2,,0,,0,,,0,,
+2026-11-17,reel,Lifestyle: a Christmas market somewhere in Europe,"Somewhere in Europe, a Ch…",88,79,3,0,0,1,0,0,,
+2026-11-17,story,Lifestyle: Christmas market,(no caption),1,,0,,0,,,0,,
+2026-11-17,story,Lifestyle: cosy magazine-cover style (coffee + candle),(no caption),7,5,0,,0,,,0,,
+2026-11-18,reel,Lifestyle: a slow morning at 6:40 a.m.,6:40 a.m. A slow morning i…,115,105,3,0,0,1,0,0,,
+2026-11-18,story,Lifestyle: slow morning collage,(no caption),4,,1,,0,,,0,,
+2026-11-18,story,Lifestyle: slow vibe,Slow vibe,4,,0,,0,,,0,,
+2026-11-23,reel,Lifestyle: a slow morning in brown tones,A slow morning in brown tones.,,,,,,,,,,
+2026-11-24,carousel,Lifestyle: things in my home that feel like they have a story,Things in my home that feel like they have a story.,,,,,,,,,,
+2026-11-25,reel,Hidden story: St Dunstan-in-the-East church garden (London),There's a garden hidden inside a church in London.,,,,,,,,,,
+2026-11-27,reel,Lifestyle: one window seat that feels like a secret,One window seat in [city] that feels like a secret.,,,,,,,,,,
+2026-11-28,carousel,Hidden story: 6 hidden things in London most people walk past,Most people walk past these 6 things in London without noticing.,,,,,,,,,,
