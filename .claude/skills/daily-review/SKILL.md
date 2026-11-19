@@ -33,7 +33,8 @@ The account is small, so compare posts with each other, never with big accounts.
    - **Hook:** if the hook formula or style performed badly, rewrite it with a better formula from `hooks/hooks-library.md`. Keep it to 12 words or fewer, and add the formula number.
    - **Topic or format:** move towards what performed best (e.g. more hidden story, a time stamp in the hook, more natural sound), but keep the post type that's planned for today.
    - **Caption:** keep the search keywords, and strengthen the first line.
-   - **Google Flow prompts** (if today is a reel made with Flow): update them only where needed. Keep the same set description in every clip (objects, colours, light, hands), use 9:16, ~7-second clips, one slow action per clip, an audio line ("No music, no speech"), and an "Avoid:" line (text, logos, faces, distorted hands).
+   - **Google Flow prompts** (if today is a reel made with Flow): **first read `references/flow-prompt-lessons.md` and apply every point in "Rules that work".** Then update the prompts only where needed.
+   - When Kate shares how her Flow clips turned out (what went wrong, what fixed it), add an entry to the "Log" in `references/flow-prompt-lessons.md`. If the fix is a new lesson, add it to "Rules that work" too.
 3. If today is a Stories-only day, improve the 3 Stories instead.
 
 ## Step 4: Save (never overwrite the original)

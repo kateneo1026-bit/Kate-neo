@@ -10,6 +10,7 @@ Ce dépôt sert à planifier le compte Instagram **Kate** en quelques minutes pa
 | `.claude/skills/weekly-review/` | Analyse tes résultats et te dit quoi refaire, quoi arrêter, puis propose la semaine suivante |
 | `.claude/skills/daily-review/` | Chaque matin : analyse les chiffres d'hier, améliore le post du jour et te donne ta checklist |
 | `hooks/hooks-library.md` | 30 formules d'accroche réutilisables |
+| `references/flow-prompt-lessons.md` | Carnet Google Flow : règles qui marchent + journal des prompts |
 | `tracking/results.csv` | Tes chiffres, post par post |
 | `content-plan/` | Les plans de chaque semaine |
 | `reviews/` | Les bilans de chaque semaine |

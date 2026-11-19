@@ -34,6 +34,8 @@ Suggested days: Reel Mon, Wed, Fri · Carousel Tue, Sat · Sun = rest day (Stori
 - **CTA:** one only. Use save, share, comment a word, or follow for more hidden stories.
 - **Affiliate (optional, one line):** a natural link idea (hotel, restaurant, tour, home item). Only if it fits. If used, the caption must start with "#ad" (UK ASA rules).
 
+- **Google Flow prompts (when a reel will be made with Flow, or Kate asks for them):** first read `references/flow-prompt-lessons.md` and apply every point in "Rules that work". Write ~7-second clips (4 clips + 1 spare per reel).
+
 ### For each Carousel
 - Topic, a hook (slide 1 text), a slide plan of 6–8 slides (one line each), caption with search keywords, hashtags and CTA (usually "Save this").
 
