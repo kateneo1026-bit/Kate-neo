@@ -137,6 +137,8 @@ Avoid: text, subtitles, logos, visible faces, modern clothing, fast movement.
 - **v4 correction:** the box was rewritten from real reference photos (a plain grey granite pillar, a black door with a grid of glass panes in the top half, a geometric octagonal glass lantern, a plane tree behind, cream Victorian buildings). The door timing was made explicit (`at 0s fully closed… at 2s his hand grips the handle… only then does the door move` + `Avoid: door opening by itself`). The phone stayed in the voiceover only, and the reel was cut to 2 clips.
 - **Lesson:** look at real photos of the place **before** writing the first prompt, never describe it from memory. Write a clear story (one idea per clip) and say what is in the voiceover rather than forcing it into a scene.
 
+- **Result:** v4 also failed according to Kate, so the reel was cancelled and she posted Stories only. **Lesson:** for real, very specific places (a unique object), Flow is unreliable. Use your own phone footage of the real place, or choose stories where the exact look doesn't matter (moods, interiors, generic streets).
+
 ### New entry template
 ```
 ### YYYY-MM-DD · Reel "[hook]" ([lifestyle / hidden story])
