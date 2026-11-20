@@ -15,7 +15,7 @@ This notebook records what I've learnt making Kate's reels with Google Flow (Veo
    For events, give the **order and timing**: `already ringing at 0s; within the first 2 seconds the hand lifts the receiver; the ringing stops`.
 5. **The same "set" description, word for word, in every clip of a reel** (objects, colours, light, sleeve/hands), so the clips look like one place.
 6. **A colour palette line** (e.g. `honey gold, crimson, warm amber against muted navy dusk`).
-7. **Real places: describe the real details** from Kate's own reference photos (wall colour, objects, lamps, signs). A generic prompt gives a generic place.
+7. **Real places: describe the real details** from reference photos (look at them **before** the first prompt, never describe from memory) (wall colour, objects, lamps, signs). A generic prompt gives a generic place.
 8. **People:** `framed from the shoulders down` or `seen only from behind`. Faces are where AI fails most, and they break the "hidden" mood.
 9. **Audio line:** describe 2–3 natural sounds, then end with `No music, no speech.`
 10. **Avoid line:** `film grain, dust, specks, flickering, text, numbers, timestamps, watermarks, logos, faces, extra fingers, distorted hands, fast camera movement`.
@@ -132,6 +132,10 @@ Avoid: text, subtitles, logos, visible faces, modern clothing, fast movement.
   4. Every reel had been at night, so the hook was too dark.
 - **Corrections:** used a master frame as an ingredient for every clip; started on an open, glowing door; named the exact phone and gave the action order and timing; used golden-hour light for the next reels.
 - **Final prompts:** in the 20 Nov daily file (section "Fixed prompts"). Kate to confirm the result.
+
+- **v3 (golden hour, 20 Nov) still failed:** the box didn't look like the real one (a curly lantern, a wooden door, a tall column with fountains), the door opened before the policeman touched it, and the phone scene was confusing.
+- **v4 correction:** the box was rewritten from real reference photos (a plain grey granite pillar, a black door with a grid of glass panes in the top half, a geometric octagonal glass lantern, a plane tree behind, cream Victorian buildings). The door timing was made explicit (`at 0s fully closed… at 2s his hand grips the handle… only then does the door move` + `Avoid: door opening by itself`). The phone stayed in the voiceover only, and the reel was cut to 2 clips.
+- **Lesson:** look at real photos of the place **before** writing the first prompt, never describe it from memory. Write a clear story (one idea per clip) and say what is in the voiceover rather than forcing it into a scene.
 
 ### New entry template
 ```
