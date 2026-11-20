@@ -29,7 +29,8 @@ This notebook records what I've learnt making Kate's reels with Google Flow (Veo
 - **A static photo collage as a reel.** It got a 2s average watch time and an 84.9% skip rate.
 
 ### Workflow
-- Flow makes ~8s clips. **Trim to 6–7s** and cut any still frames at the start.
+- Flow makes ~8s clips. **Trim to ~5s** and cut any still frames at the start. (19 Nov: with 6–7s clips, ~70% of viewers had left by 3s. Faster cuts keep people watching.)
+- **The first 3 seconds must be bright enough and show the "strange thing" itself** (the door, the object). A dark, slow opening loses people.
 - **5 clips a day:** plan 4 clips + 1 spare for whichever fails.
 - **Text on screen, names and addresses:** always add them in CapCut, never rely on Flow for them.
 - If the end of a clip is blown out to white, lower Highlights in CapCut or cut before it.
