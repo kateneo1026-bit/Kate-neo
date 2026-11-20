@@ -11,13 +11,17 @@ This notebook records what I've learnt making Kate's reels with Google Flow (Veo
 1. **"Vertical 9:16"** at the start of the prompt, and set 9:16 in Flow's settings.
 2. **The look:** `ultra-sharp, clean modern digital cinema look, photorealistic, high detail`.
 3. **The camera:** lens + aperture + one slow movement (`slow smooth push-in`, `slow gimbal walk forward`, `static on a tripod`).
-4. **One slow action per clip,** and **movement from the very first frame** (steam already rising, rain already falling, a hand already on the handle). Viewers decide in under 2 seconds.
+4. **One action per clip, at natural speed** (keep only the *camera* slow), and **movement from the very first frame** (steam already rising, door already open, phone already ringing). Viewers decide in under 2 seconds.
+   For events, give the **order and timing**: `already ringing at 0s; within the first 2 seconds the hand lifts the receiver; the ringing stops`.
 5. **The same "set" description, word for word, in every clip of a reel** (objects, colours, light, sleeve/hands), so the clips look like one place.
 6. **A colour palette line** (e.g. `honey gold, crimson, warm amber against muted navy dusk`).
 7. **Real places: describe the real details** from Kate's own reference photos (wall colour, objects, lamps, signs). A generic prompt gives a generic place.
 8. **People:** `framed from the shoulders down` or `seen only from behind`. Faces are where AI fails most, and they break the "hidden" mood.
 9. **Audio line:** describe 2–3 natural sounds, then end with `No music, no speech.`
-10. **Avoid line:** `film grain, dust, specks, flickering, text, numbers, timestamps, watermarks, logos, faces, extra fingers, distorted hands, fast movement`.
+10. **Avoid line:** `film grain, dust, specks, flickering, text, numbers, timestamps, watermarks, logos, faces, extra fingers, distorted hands, fast camera movement`.
+11. **The same object in every clip: text alone is not enough.** Pause on the best clip, save that frame as an image (Flow's image ➕ button) and use it as an **ingredient or start frame** for every other clip, with the words `exactly the same pillar as in the reference image`.
+12. **Name the exact period object** (e.g. `1920s black candlestick telephone: tall upright stem, mouthpiece on top, separate earpiece hanging on a hook at the side`). Otherwise the AI picks a generic one.
+13. **Vary the light, and make the hook bright.** Not every reel at night: dark openings lose viewers. Golden hour (low warm winter sun) is bright *and* cosy.
 
 ### Never
 - **"35mm film" or "grain"** in the prompt. It adds dust, black specks and fake date stamps (e.g. "9/13").
@@ -118,6 +122,16 @@ Avoid: text, subtitles, logos, visible faces, modern clothing, fast movement.
   ```
 
 ---
+
+### 2026-11-20 · Reel "Britain's smallest police station is hiding in this lamp post" (hidden story, Trafalgar Square)
+- **First prompts:** see `content-plan/daily/2026-11-20-improved.md`, clips 1–4. The set was written out in each prompt but no reference image was used. Everything was at night.
+- **What went wrong:**
+  1. The police box looked different in every clip (a stone pillar, a blue wooden box, a thin lamp post).
+  2. The hook was dark and slow: the door was closed at 0s and only open by 0:05.
+  3. The phone was a generic rotary desk phone. It was lifted very slowly, and the ringing came *after* it was lifted.
+  4. Every reel had been at night, so the hook was too dark.
+- **Corrections:** used a master frame as an ingredient for every clip; started on an open, glowing door; named the exact phone and gave the action order and timing; used golden-hour light for the next reels.
+- **Final prompts:** in the 20 Nov daily file (section "Fixed prompts"). Kate to confirm the result.
 
 ### New entry template
 ```
