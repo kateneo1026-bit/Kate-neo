@@ -23,6 +23,7 @@ This notebook records what I've learnt making Kate's reels with Google Flow (Veo
 12. **Name the exact period object** (e.g. `1920s black candlestick telephone: tall upright stem, mouthpiece on top, separate earpiece hanging on a hook at the side`). Otherwise the AI picks a generic one.
 13. **Vary the light, and make the hook bright.** Not every reel at night: dark openings lose viewers. Golden hour (low warm winter sun) is bright *and* cosy.
 14. **Pick subjects Flow already knows.** Flow is good at doors, hands, people seen from behind, candlelit rooms, ivy-covered ruins and steam. It fails at rare, one-off real objects (e.g. the Trafalgar Square police box: 0 usable clips in 5 versions). **After 2 failed versions, stop:** change the topic, or film the real thing with your phone and use Flow only for the "past" scenes.
+15. **Real places must look real, not cinematic.** For a real garden or street, replace the look in rule 2 with `photorealistic, natural true-to-life colours, like a real high-quality smartphone video, soft natural light, gentle realistic contrast, no colour grading`. Describe only what is in the reference photos (not a fountain or tower you remember), and add `oversaturated colours, HDR, glowing light, lens flare, large falling leaves, grand cathedral, symmetrical` to the Avoid line. Words like "cinematic", "glowing" and "falling leaves" turned St Dunstan into a fantasy cathedral.
 
 ### Never
 - **"35mm film" or "grain"** in the prompt. It adds dust, black specks and fake date stamps (e.g. "9/13").
@@ -140,6 +141,14 @@ Avoid: text, subtitles, logos, visible faces, modern clothing, fast movement.
 - **Not posted on 20 Nov.** Moved to 21 Nov as v5 (`content-plan/daily/2026-11-21-improved.md`): 3 clips × ~5s, the SET written word for word in every clip, one action in clip 2 (hand already on the handle at 0s), and a new ending clip that is also the spare. Kate to confirm the result.
 - **Final result (Kate, 21 Nov): every version failed, 0 good scenes, so no reel was posted on 20 Nov.** v5 was dropped. The topic moves to the Sat 28 carousel, using Kate's own phone photos. New rule 14.
 - **Data note (Metricool, 21 Nov):** the lowest skip rates (44%) came from bright, famous London places with big cover text (warships, Big Ben). Dark or vague openings had 56–84% skip rates. This supports rule 13.
+
+### 2026-11-21 · Reel "There's a garden hidden inside a church in London" (hidden story, St Dunstan-in-the-East)
+**Clip 1: walking into the garden**
+- **First prompt:** v1 in the git history of `content-plan/daily/2026-11-21-improved.md` ("ultra-sharp cinematic… honey sunlight… leaves drifting down through the sunbeams…"). It was written from memory, before looking at photos.
+- **What went wrong:** it looked artificial. Flow made a grand, symmetrical cathedral nave with a tiered fountain, oversaturated red and yellow, big cartoon leaves at the lens, a sun flare and a perfect blue sky.
+- **Correction (v2):** rewritten from 4 real photos Kate found. The real place is small and overgrown: damp-stained cream stone, creeper hanging like curtains, a windmill palm, a curved flagstone path with a low brick planter, a small arched doorway with black railings, and a brick office block above. It now uses a natural phone-video look and no "cinematic", has no fountain, tower or falling leaves, and has a bigger Avoid line. The Google photos are used only to compare, never as ingredients.
+- **Final prompt:** v2 in the 21 Nov daily file. Kate to confirm the result.
+- **Lesson:** new rule 15. Look at the real photos before the first prompt (rule 7), even for a place that seems easy.
 
 ### New entry template
 ```
