@@ -136,6 +136,8 @@ Avoid: text, subtitles, logos, visible faces, modern clothing, fast movement.
 - **v3 (golden hour, 20 Nov) still failed:** the box didn't look like the real one (a curly lantern, a wooden door, a tall column with fountains), the door opened before the policeman touched it, and the phone scene was confusing.
 - **v4 correction:** the box was rewritten from real reference photos (a plain grey granite pillar, a black door with a grid of glass panes in the top half, a geometric octagonal glass lantern, a plane tree behind, cream Victorian buildings). The door timing was made explicit (`at 0s fully closed… at 2s his hand grips the handle… only then does the door move` + `Avoid: door opening by itself`). The phone stayed in the voiceover only, and the reel was cut to 2 clips.
 - **Lesson:** look at real photos of the place **before** writing the first prompt, never describe it from memory. Write a clear story (one idea per clip) and say what is in the voiceover rather than forcing it into a scene.
+- **Not posted on 20 Nov.** Moved to 21 Nov as v5 (`content-plan/daily/2026-11-21-improved.md`): 3 clips × ~5s, the SET written word for word in every clip, one action in clip 2 (hand already on the handle at 0s), and a new ending clip that is also the spare. Kate to confirm the result.
+- **Data note (Metricool, 21 Nov):** the lowest skip rates (44%) came from bright, famous London places with big cover text (warships, Big Ben). Dark or vague openings had 56–84% skip rates. This supports rule 13.
 
 ### New entry template
 ```
