@@ -22,6 +22,7 @@ This notebook records what I've learnt making Kate's reels with Google Flow (Veo
 11. **The same object in every clip: text alone is not enough.** Pause on the best clip, save that frame as an image (Flow's image ➕ button) and use it as an **ingredient or start frame** for every other clip, with the words `exactly the same pillar as in the reference image`.
 12. **Name the exact period object** (e.g. `1920s black candlestick telephone: tall upright stem, mouthpiece on top, separate earpiece hanging on a hook at the side`). Otherwise the AI picks a generic one.
 13. **Vary the light, and make the hook bright.** Not every reel at night: dark openings lose viewers. Golden hour (low warm winter sun) is bright *and* cosy.
+14. **Pick subjects Flow already knows.** Flow is good at doors, hands, people seen from behind, candlelit rooms, ivy-covered ruins and steam. It fails at rare, one-off real objects (e.g. the Trafalgar Square police box: 0 usable clips in 5 versions). **After 2 failed versions, stop:** change the topic, or film the real thing with your phone and use Flow only for the "past" scenes.
 
 ### Never
 - **"35mm film" or "grain"** in the prompt. It adds dust, black specks and fake date stamps (e.g. "9/13").
@@ -137,6 +138,7 @@ Avoid: text, subtitles, logos, visible faces, modern clothing, fast movement.
 - **v4 correction:** the box was rewritten from real reference photos (a plain grey granite pillar, a black door with a grid of glass panes in the top half, a geometric octagonal glass lantern, a plane tree behind, cream Victorian buildings). The door timing was made explicit (`at 0s fully closed… at 2s his hand grips the handle… only then does the door move` + `Avoid: door opening by itself`). The phone stayed in the voiceover only, and the reel was cut to 2 clips.
 - **Lesson:** look at real photos of the place **before** writing the first prompt, never describe it from memory. Write a clear story (one idea per clip) and say what is in the voiceover rather than forcing it into a scene.
 - **Not posted on 20 Nov.** Moved to 21 Nov as v5 (`content-plan/daily/2026-11-21-improved.md`): 3 clips × ~5s, the SET written word for word in every clip, one action in clip 2 (hand already on the handle at 0s), and a new ending clip that is also the spare. Kate to confirm the result.
+- **Final result (Kate, 21 Nov): every version failed, 0 good scenes, so no reel was posted on 20 Nov.** v5 was dropped. The topic moves to the Sat 28 carousel, using Kate's own phone photos. New rule 14.
 - **Data note (Metricool, 21 Nov):** the lowest skip rates (44%) came from bright, famous London places with big cover text (warships, Big Ben). Dark or vague openings had 56–84% skip rates. This supports rule 13.
 
 ### New entry template
