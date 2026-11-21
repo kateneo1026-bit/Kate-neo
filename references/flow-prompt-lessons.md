@@ -16,7 +16,7 @@ This notebook records what I've learnt making Kate's reels with Google Flow (Veo
 5. **The same "set" description, word for word, in every clip of a reel** (objects, colours, light, sleeve/hands), so the clips look like one place.
 6. **A colour palette line** (e.g. `honey gold, crimson, warm amber against muted navy dusk`).
 7. **Real places: describe the real details** from reference photos (look at them **before** the first prompt, never describe from memory) (wall colour, objects, lamps, signs). A generic prompt gives a generic place.
-8. **People:** `framed from the shoulders down` or `seen only from behind`. Faces are where AI fails most, and they break the "hidden" mood.
+8. **Kate's account is faceless: no people as the subject.** That means no woman or "Kate" figure in a scene, not even seen from behind (21 Nov: the woman on the bench with a cup was rejected). Let places and objects tell the story: an empty bench, an open door, steam from a cup. Historical figures **seen only from behind** are OK only in a "past" scene the story needs (19 Nov, the couple on the stairs). Add `people, a person sitting, faces, silhouettes` to the Avoid line.
 9. **Audio line:** describe 2–3 natural sounds, then end with `No music, no speech.`
 10. **Avoid line:** `film grain, dust, specks, flickering, text, numbers, timestamps, watermarks, logos, faces, extra fingers, distorted hands, fast camera movement`.
 11. **The same object in every clip: text alone is not enough.** Pause on the best clip, save that frame as an image (Flow's image ➕ button) and use it as an **ingredient or start frame** for every other clip, with the words `exactly the same pillar as in the reference image`.
@@ -148,6 +148,9 @@ Avoid: text, subtitles, logos, visible faces, modern clothing, fast movement.
 - **What went wrong:** it looked artificial. Flow made a grand, symmetrical cathedral nave with a tiered fountain, oversaturated red and yellow, big cartoon leaves at the lens, a sun flare and a perfect blue sky.
 - **Correction (v2):** rewritten from 4 real photos Kate found. The real place is small and overgrown: damp-stained cream stone, creeper hanging like curtains, a windmill palm, a curved flagstone path with a low brick planter, a small arched doorway with black railings, and a brick office block above. It now uses a natural phone-video look and no "cinematic", has no fountain, tower or falling leaves, and has a bigger Avoid line. The Google photos are used only to compare, never as ingredients.
 - **Final prompt:** v2 in the 21 Nov daily file. Kate to confirm the result.
+- **Result (Kate):** with the v2 prompts, **clips 1, 2 and the spare were OK ✅**. The natural phone-video look and the details from the real photos fixed the fake look.
+- **Clip 3 rejected:** a woman seen from behind on the bench with a cup. **The account is faceless.** It was replaced with the **empty bench under the creeper arch** (no people, `people, silhouettes, hands` added to Avoid). Rule 8 updated.
+- **Final prompt (clip 3):** in the 21 Nov daily file. Kate to confirm the result.
 - **Lesson:** new rule 15. Look at the real photos before the first prompt (rule 7), even for a place that seems easy.
 
 ### New entry template
