@@ -54,7 +54,7 @@
 2. **Midday (12:30): value + link.** Behind the post / extra tip, plus a link sticker (affiliate, labelled #ad).
 3. **Evening (20:30): tribe.** Question box, "this or that", results of the poll, a reply to a DM (shown anonymously), or a teaser of tomorrow.
 
-## Learning loop (every week)
+## Learning loop (every week, full process in `weekly-review.md`)
 Ask the user for, or pull, per post: views, avg watch time, saves, shares, follows, comments on the keyword, link clicks.
 - High views but few follows → the hook works but there's no promise. Add series and a "follow for" line.
 - High saves but low clicks → move the link closer (keyword DM + Story sticker the same day).

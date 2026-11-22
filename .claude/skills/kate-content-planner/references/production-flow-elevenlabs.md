@@ -28,18 +28,17 @@
 - Write prompts carefully the first time (below), because re-dos waste credits.
 
 ## Character consistency (faceless Kate)
-1. Create **3 reference images** once (Flow image generation) and save them as "ingredients":
+1. Create **4 reference images** once (Flow image generation) and save them as "ingredients":
    - `kate-hands`: hands holding the caramel mug, mocha nails, gold ring, camel knit sleeves.
    - `kate-back`: back view, chestnut hair in a claw-clip bun, chocolate wool coat.
    - `kate-flat`: living room with walnut wood, linen curtains, cream bouclé chair, warm lamps.
+   - `kate-window` (signature): rainy London windowsill with brass lamp, dried hydrangeas, knit throw, speckled mug, leather book.
 2. Use **Ingredients to Video** with the right reference for each clip.
-3. Always include "no faces visible" and the brand suffix.
+3. Always end with **suffix v2** (it already says "no faces, no text, no logos").
 
 ## Flow prompt formula
-`[Shot type + camera move], [what Kate's hands/back are doing], [place + objects], [light + time], [sound cue], + BRAND SUFFIX`
-
-Example:
-`Close-up slow push-in, a woman's hands with mocha nails and a thin gold ring pour hot coffee into a caramel stoneware mug, wooden kitchen counter by a rainy window, early morning blue light mixing with warm lamp light, steam rising, soft rain sound, warm brown and cream colour palette, soft golden light, 35mm film look, shallow depth of field, gentle film grain, cosy and calm mood, no faces visible, vertical 9:16`
+Use **formula v2, suffix v2 and the master prompts** in `flow-prompt-lessons.md`. That file replaces the old formula.
+An ambient loop reel = **1 clip (10 credits)**, so it's the cheapest reel type on the free tier.
 
 **Shot types that work for faceless:** POV hands, over-the-shoulder, back view walking, top-down (flat lay),
 feet/shoes on cobbles, reflection in a window (blurred), silhouette against a window, slow pan of a room or street.

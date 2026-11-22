@@ -12,17 +12,18 @@
 - Hands: slim, **almond nails painted mocha brown**, a **thin gold ring on the right index finger**, a small gold watch with a brown leather strap.
 - Hair (back view only): **long chestnut-brown hair in a low claw-clip bun**.
 - Clothes: **oversized camel knit jumper**, cream linen shirt, chocolate wool coat, ribbed brown socks.
-- Objects: a **speckled stoneware mug in caramel glaze**, a **worn brown leather notebook**, a brass candle holder.
+- Objects: a **speckled cream stoneware mug with a brown rim**, a **worn brown leather book/notebook**, a brass lamp with a pleated cream shade, dried hydrangeas, a chocolate chunky knit throw, a clear dome umbrella, a tan quilted shoulder bag.
+- Signature set: **`kate-window`**, the rainy London windowsill (see `flow-prompt-lessons.md`).
 - Flat: walnut wood, linen curtains, cream bouclé chair, warm lamps, a small balcony with plants.
 
 ## Brown vibes: visual system
 - **Palette:** espresso #3B2A20 · mocha #6F4E37 · caramel #C68E54 · latte #D9B99B · cream #F3E9DC · terracotta accent #B5653A · a little olive green #6B6B47.
-- **Light:** golden hour, warm tungsten lamps (2700K), candlelight, soft window light, rainy grey outside / warm inside.
+- **Light:** two temperatures: warm amber inside (2700K lamps, candles) vs cool blue-grey outside (rain, dusk, overcast), about 70/30. Golden hour for outdoor walks.
+- **Grade:** soft contrast, creamy highlights (not white), deep brown shadows (not black), ochre autumn leaves, no orange cast, no grey flatness.
 - **Texture:** linen, wool, wood grain, steam, paper, ceramics, film grain.
-- **Prompt suffix (paste at the end of every Flow prompt):**
-  `warm brown and cream colour palette, soft golden light, 35mm film look, shallow depth of field, gentle film grain, cosy and calm mood, no faces visible, vertical 9:16`
+- **Prompt suffix:** use **suffix v2** from `flow-prompt-lessons.md` (phone-real, warm inside vs cool outside). The old "35mm film look" suffix is retired.
 - **Text on screen:** one serif font (e.g. *Playfair Display* or Instagram's "Classic"), cream text,
-  never more than 7 words on screen at once.
+  never more than 7 words on screen at once (ambient loops: one small lowercase feeling line, up to ~12 words).
 - **Covers:** still frame + 3–5 words in the same serif font, so the grid looks like one brown story.
 - **Sound:** soft lo-fi piano / ambient + natural sound (rain, kettle, pages, footsteps, cutlery).
   No loud trending audio.
