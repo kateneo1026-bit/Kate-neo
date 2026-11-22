@@ -54,7 +54,8 @@ Before writing anything, read the reference files you need:
    hidden-story reel, see `flow-prompt-lessons.md`; 1–2 ambient loops per week). Strange hook,
    hidden-story script with timings, Flow prompts clip by clip **using prompt structure v3 from `cinematic-generation-standard.md`, with the Kate identity block in every clip where she appears, and a one-line continuity note per reel**, ElevenLabs VO script, caption, CTA keyword, 5 hashtags,
    affiliate angle, compliance line.
-6. **Stories:** 3 per day following the daily Story rhythm in `audience-psychology.md`.
+6. **Stories: always 3 per day, 21 a week** (07:30 Mood · 12:30 Value + link · 20:30 Tribe),
+   following the daily Story rhythm in `audience-psychology.md`. Never fewer, even on Reel days.
 7. **Production checklist + credit budget** table so the user can batch-generate.
 8. Save the file, update the list in `README.md`, then commit and push if working in git.
 

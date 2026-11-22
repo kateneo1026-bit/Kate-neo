@@ -94,7 +94,8 @@ Vertical 9:16, 8-second shot. SCENE: a cosy London kitchen table on a rainy Nove
 ---
 
 ## Paste-ready block for the account skills (kate-uncovers-video, kate-uncovers-weekly-plan)
-These two skills are synced from the user's Claude account. Edit them in Claude's skill settings and add this section under "Flow prompt rules":
+These two skills are synced from the user's Claude account. Edit them in Claude's skill settings.
+**Both skills:** add this section under "Flow prompt rules":
 
 ```
 ### Cinematic Generation Standard (mandatory, v3)
@@ -104,3 +105,19 @@ Kate identity (always when hands, legs or back show): a 26-year-old British woma
 Hands: one hand, one slow action, describe the grip, 50mm medium close-up, no labels or text on objects.
 Consistency: same identity, outfit, props, time of day and light direction in every clip of a reel.
 ```
+
+### Story rule for `kate-uncovers-weekly-plan` (matches kate-content-planner)
+In section 5 ("Weekly mix"), **replace** the line that starts with "1 Story a day:" with:
+```
+- 3 Stories every day (21 a week), at fixed times (UK):
+  07:30 Mood: a calm clip or still (coffee, window, rain) + a poll or "Quiet Question".
+  12:30 Value + link: behind the post / an extra tip + a link sticker (affiliate, with "Ad" on the frame).
+  20:30 Tribe: question box, "this or that", poll results, a reply to a DM (anonymous), or a teaser of tomorrow.
+  Stories reuse Reel clips and stills, so they cost few or no extra Flow credits.
+```
+In section 10 ("Workflow"), step 3, **replace** "and 7 Stories" with "and 21 Stories (3 a day)".
+In section 11 ("Output format"), **replace** the Stories line with:
+```
+- Stories: a table with one row per day and three columns (07:30 Mood · 12:30 Value + link · 20:30 Tribe), each with what's on screen, sticker and text, and visual source.
+```
+
