@@ -22,6 +22,8 @@ This notebook records what I've learnt making Kate's reels with Google Flow (Veo
 11. **The same object in every clip: text alone is not enough.** Pause on the best clip, save that frame as an image (Flow's image ➕ button) and use it as an **ingredient or start frame** for every other clip, with the words `exactly the same pillar as in the reference image`.
 12. **Name the exact period object** (e.g. `1920s black candlestick telephone: tall upright stem, mouthpiece on top, separate earpiece hanging on a hook at the side`). Otherwise the AI picks a generic one.
 13. **Vary the light, and make the hook bright.** Not every reel at night: dark openings lose viewers. Golden hour (low warm winter sun) is bright *and* cosy.
+14. **Pick Flow-friendly topics.** The story must work without an exact copy of a strange real object (police box, specific statue, odd building). At most one clip has to look like the real place. Stories carried by people from behind, animals, candlelight or objects work best. (20 Nov police box: 4 rounds, never usable.)
+15. **Two-round rule.** A clip that fails twice → use the spare or drop it. The key visual fails twice → change the topic that day.
 
 ### Never
 - **"35mm film" or "grain"** in the prompt. It adds dust, black specks and fake date stamps (e.g. "9/13").
@@ -136,6 +138,9 @@ Avoid: text, subtitles, logos, visible faces, modern clothing, fast movement.
 - **v3 (golden hour, 20 Nov) still failed:** the box didn't look like the real one (a curly lantern, a wooden door, a tall column with fountains), the door opened before the policeman touched it, and the phone scene was confusing.
 - **v4 correction:** the box was rewritten from real reference photos (a plain grey granite pillar, a black door with a grid of glass panes in the top half, a geometric octagonal glass lantern, a plane tree behind, cream Victorian buildings). The door timing was made explicit (`at 0s fully closed… at 2s his hand grips the handle… only then does the door move` + `Avoid: door opening by itself`). The phone stayed in the voiceover only, and the reel was cut to 2 clips.
 - **Lesson:** look at real photos of the place **before** writing the first prompt, never describe it from memory. Write a clear story (one idea per clip) and say what is in the voiceover rather than forcing it into a scene.
+- **Outcome (Kate, 22 Nov):** v4 failed too. No version gave a usable result, with many mistakes in every round, so **the reel was never posted**. A day of credits was lost.
+- **Why it failed:** the whole story depended on Flow copying **one unusual real object exactly** (a hollow granite pillar with a door). Flow can't do that reliably, even with reference photos and a master frame. The king's door reel worked because it relied on atmosphere and people from behind, and only one clip had to look like the real place.
+- **Lesson:** choose hidden stories that Flow can tell with **atmosphere, animals, objects and people seen from behind**. Keep the real place to one clip at most, or film it yourself. **Two-round rule:** if a clip fails twice, use the spare or drop the clip, and if the key visual fails twice, change the topic.
 
 ### New entry template
 ```
