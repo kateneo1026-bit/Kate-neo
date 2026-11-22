@@ -34,7 +34,7 @@
 - **Utility → saves:** lists, maps, prices and routes are saved. Saves tell Instagram the content has value.
 - **Shareability:** "Send this to the person you'd go with" works for travel because the decision is shared.
 - **Reciprocity:** give a free useful thing (a guide or list in DMs) and people trust the link.
-- **Identity and belonging:** call the audience "the quiet ones". People follow identities, not accounts.
+- **Identity and belonging:** call the community "The Quiet Club". People follow identities, not accounts.
 - **Seasonal scarcity / timing:** "Opens this weekend", "Only in December", "Prices rise after Friday" (only if true).
 - **Low-friction CTA:** commenting one word feels small, the auto-DM delivers the link, and that comment also boosts reach.
 - **Soft authority:** small facts, dates and history make Kate feel like the friend who knows.
@@ -44,7 +44,7 @@
 |---|---|---|---|
 | **Viewer (discover)** | Stop the scroll | Strange-hook reels, hidden places, seasonal stories | Reach, 3-sec hold, watch time |
 | **Follower** | "I want more of this" | Series, consistent look, promise in bio, "follow for Part 2" | Follows per reel, profile visits |
-| **Tribe** | "This is my place" | Stories every day, polls, Broadcast Channel, Sunday Reset ritual, replying to DMs, naming them "the quiet ones" | Story replies, DMs, shares, returning viewers |
+| **Tribe** | "This is my place" | Stories every day, polls, Broadcast Channel, Sunday Reset ritual, replying to DMs, naming them "The Quiet Club" | Story replies, DMs, shares, returning viewers |
 | **Buyer** | Click and book/buy | Keyword DMs, Story link stickers, numbered link-in-bio, guides | Link clicks, affiliate conversions |
 
 **Weekly mix (fixed format: 4 Reels + 1 Carousel):** 2 discover Reels, 2 follow/tribe Reels, 1 buy Carousel. Every post still has a CTA, and Stories add a link sticker every day.

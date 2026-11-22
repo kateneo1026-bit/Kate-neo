@@ -87,7 +87,7 @@ One line, lowercase, small serif, centred, cream. Added in Instagram, **never in
 - *"the weather my soul was waiting for"*
 - *"a little rain, a little coffee, no one needs me until 9"*
 - *"this, and no plans"*
-- *"the quiet ones know this feeling"*
+- *"the quiet club knows this feeling"*
 - *"the urge to disappear for a weekend and come back calmer"*
 Use these for **ambient loop reels**. For **story reels**, keep the strange hook on the first frame.
 

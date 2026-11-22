@@ -55,5 +55,5 @@ but keep at least 1 travel and 1 home Reel every week.
 - **"Hidden Tables"**: one restaurant or food tradition a week.
 
 ## Tribe identity
-- Default tribe name: **"the quiet ones"** (people who like slow, warm, hidden things). Change it if the user picks another.
+- Tribe name: **"The Quiet Club"** (chosen by the user on 22 Nov 2026; same name as in the account skills). Members are people who like slow, warm, hidden things. Always write it with capitals: The Quiet Club.
 - Rituals: Sunday Reset every week, a "Hidden List" in the Broadcast Channel every Friday, "Quiet Question" Story poll every day.

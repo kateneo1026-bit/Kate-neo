@@ -21,7 +21,7 @@ First frame must *show* the strangeness (a lit window, a knock on a door, a cand
 - **Share:** "Send this to the person you'd go with."
 - **Follow (open loop):** "Hidden Story No. 4 tomorrow. Follow so you don't miss it."
 - **Bio number:** "It's number 3 in my bio."
-- **Tribe:** "If you're one of the quiet ones, tell me your ritual below."
+- **Tribe:** "Tell me your one small ritual; I'm collecting them for The Quiet Club."
 Keyword rules: one short CAPITAL word, linked to the post (CAVE, LYON, WARM). Never reuse it in the same month.
 
 ## Caption structure
@@ -29,7 +29,7 @@ Keyword rules: one short CAPITAL word, linked to the post (CAVE, LYON, WARM). Ne
 2. Line 1 = the hook again, in other words (it shows before "more").
 3. 2–4 short lines: the hidden story + practical info (📍 where · 🚆 how · 🛏️ stay · £ price from).
 4. CTA (keyword) + a second soft CTA (save/share).
-5. A tribe line, sometimes: "for the quiet ones ✦"
+5. A tribe line, sometimes: "for The Quiet Club ✦"
 6. 5 hashtags.
 Max 3 emojis. Short lines. Use keywords people search for (Instagram search reads captions): e.g. "cosy bedroom ideas", "Lyon restaurants".
 
