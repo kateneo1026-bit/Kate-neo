@@ -36,6 +36,7 @@ The account is small, so compare posts with each other, never with big accounts.
    - **Google Flow prompts** (if today is a reel made with Flow): **first read `references/flow-prompt-lessons.md` and apply every point in "Rules that work".** Then update the prompts only where needed.
    - When Kate shares how her Flow clips turned out (what went wrong, what fixed it), add an entry to the "Log" in `references/flow-prompt-lessons.md`. If the fix is a new lesson, add it to "Rules that work" too.
 3. If today is a Stories-only day, improve the 3 Stories instead.
+4. **Stories always follow `content-plan/stories-rule.md`:** format (image or video), a ready-to-use prompt (Flow for video, Gemini for image), the text on screen, and a spare prompt for every video.
 
 ## Step 4: Save (never overwrite the original)
 - Save the improved version to `content-plan/daily/YYYY-MM-DD-improved.md` (today's date).
