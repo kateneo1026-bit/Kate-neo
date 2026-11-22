@@ -118,4 +118,9 @@ If people appear in the background, write `blurred people with umbrellas walking
 | 2026-11-22 | #15, #16 | Single 8–12 s looped clip works as a full reel (saves Flow credits) | Testing |
 | 2026-11-22 | Reel 4 clip A (Flow, user screenshot) | No skin tone or hand description → Flow chose a different skin tone from the one the user wants for Kate, deformed right hand, nails/ring missing, text on the candle label, unnatural flour pattern | **Fixed:** Kate identity block mandatory (Top rule 1), hand rules (Top rule 7), "plain unlabelled" objects |
 | 2026-11-22 | User decision | Adopt the user's **Cinematic Generation Standard v3**; suffix v1/v2 retired | Top rule 0 |
-
+| 2026-11-22 | Reel 4, 2nd try (v3 prompts) | Identity block worked: fair skin, mocha nails, ring and oatmeal cuff appeared in A, B and D. Realism much better | Top rule 1 confirmed |
+| 2026-11-22 | Reel 4 clip B | "small old silver coin" became a big dark copper coin. Name the exact historical object and its size and colour ("tiny worn silver sixpence, size of a fingernail, bright silver, not copper") | Testing → historical accuracy |
+| 2026-11-22 | Reel 4 clips A/B | Continuity drift between clips: ring count, mixture texture and background changed. Write the state of every object in every prompt ("thick stirred batter", "only one ring") | Testing |
+| 2026-11-22 | Reel 4 clip D | "plain unlabelled candle jar" still produced labels with fake text. Ask for "clear amber glass with no sticker" or a candle in a brass holder (no jar) | Testing |
+| 2026-11-22 | Reel 4 clip C | "wrapped in baking paper" made paper stick up. Describe the shape: "top covered flat by pleated paper, string under the rim" | Testing |
+| 2026-11-22 | Reel 4 order | Clips must get darker in story order (dusk → night). A brighter clip in the middle breaks the timeline, so fix it with the edit or a prompt that sets the time of day | Testing |
