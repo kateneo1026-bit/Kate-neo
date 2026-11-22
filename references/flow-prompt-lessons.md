@@ -34,6 +34,9 @@ This notebook records what I've learnt making Kate's reels with Google Flow (Veo
 - **Screenshots or clips from other creators** as Flow ingredients or in the reel. That's copyright, even with the watermark removed.
 - **A static photo collage as a reel.** It got a 2s average watch time and an 84.9% skip rate.
 
+### Stories (permanent rule, 22 Nov)
+Every story in every plan states: **format** (image or video), a **ready-to-use prompt** (Google Flow for video, Gemini for image), the **text on screen**, and a **spare prompt** for every video. Rules 14 and 15 apply to Stories too: Flow-friendly subjects only, and a clip that fails twice → use the spare (if the spare fails, post it as an image). Full rule and Gemini image rules: `content-plan/stories-rule.md`.
+
 ### Workflow
 - Flow makes ~8s clips. **Trim to ~5s** and cut any still frames at the start. (19 Nov: with 6–7s clips, ~70% of viewers had left by 3s. Faster cuts keep people watching.)
 - **The first 3 seconds must be bright enough and show the "strange thing" itself** (the door, the object). A dark, slow opening loses people.

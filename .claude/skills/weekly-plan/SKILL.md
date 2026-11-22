@@ -40,6 +40,7 @@ Suggested days: Reel Mon, Wed, Fri · Carousel Tue, Sat · Sun = rest day (Stori
 - Topic, a hook (slide 1 text), a slide plan of 6–8 slides (one line each), caption with search keywords, hashtags and CTA (usually "Save this").
 
 ### Stories (3 per day)
+**Permanent rule:** read `content-plan/stories-rule.md` and follow it for every story. Each story needs its format (image or video), a ready-to-use prompt (Google Flow for video, Gemini for image), the text on screen and sticker, and a spare Flow prompt for every video. Start with the quick table below, then add one block per story.
 A table with columns day · morning (engage: poll, quiz or question) · midday (behind the scenes or a quiet moment) · evening (share today's post, or a link sticker if there's an affiliate link). One line per cell.
 
 ## Style rules
