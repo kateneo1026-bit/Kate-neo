@@ -9,6 +9,7 @@
 - **AI character:** her bio says so openly (see compliance file). This builds trust; it doesn't hurt reach.
 
 ### Recognisable "Kate signatures" (keep identical in every Flow prompt)
+- **Skin:** fair with warm undertones, natural texture. **Write it in every prompt where her hands, legs or back show.** If you change it, change it in `cinematic-generation-standard.md` too.
 - Hands: slim, **almond nails painted mocha brown**, a **thin gold ring on the right index finger**, a small gold watch with a brown leather strap.
 - Hair (back view only): **long chestnut-brown hair in a low claw-clip bun**.
 - Clothes: **oversized camel knit jumper**, cream linen shirt, chocolate wool coat, ribbed brown socks.
@@ -21,7 +22,7 @@
 - **Light:** two temperatures: warm amber inside (2700K lamps, candles) vs cool blue-grey outside (rain, dusk, overcast), about 70/30. Golden hour for outdoor walks.
 - **Grade:** soft contrast, creamy highlights (not white), deep brown shadows (not black), ochre autumn leaves, no orange cast, no grey flatness.
 - **Texture:** linen, wool, wood grain, steam, paper, ceramics, film grain.
-- **Prompt suffix:** use **suffix v2** from `flow-prompt-lessons.md` (phone-real, warm inside vs cool outside). The old "35mm film look" suffix is retired.
+- **Prompt standard:** every Flow prompt follows `cinematic-generation-standard.md` (v3) and includes the Kate identity block. Old suffixes v1/v2 are retired.
 - **Text on screen:** one serif font (e.g. *Playfair Display* or Instagram's "Classic"), cream text,
   never more than 7 words on screen at once (ambient loops: one small lowercase feeling line, up to ~12 words).
 - **Covers:** still frame + 3–5 words in the same serif font, so the grid looks like one brown story.

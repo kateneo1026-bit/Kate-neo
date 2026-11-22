@@ -16,7 +16,8 @@ Before writing anything, read the reference files you need:
 |---|---|
 | `references/brand-kate.md` | Always. Persona, brown palette, voice, content pillars, recurring series. |
 | `references/audience-psychology.md` | Always for a weekly plan. Needs, pains, psychology, viewer → follower → tribe → buyer ladder. |
-| `references/flow-prompt-lessons.md` | **Every time you write a Flow prompt.** Top rules, visual identity v2, suffix v2, daily-routine master prompts, negative list, lessons log. |
+| `references/cinematic-generation-standard.md` | **Every time you write a Flow prompt.** The user's master standard (v3): 7 parts, Kate identity block, hand rules, consistency, historical accuracy, prompt structure. |
+| `references/flow-prompt-lessons.md` | **Every time you write a Flow prompt.** Top rules, Kate's sets, daily-routine scene library, negative list, lessons log. |
 | `references/production-flow-elevenlabs.md` | Any time you write Flow prompts or voiceovers. Credit budget and consistency rules. |
 | `references/daily-review.md` | User asks for a daily review, sends today's clips/numbers or inspiration screenshots. |
 | `references/weekly-review.md` | **Before every weekly plan**, and when the user asks for a weekly review. |
@@ -51,7 +52,7 @@ Before writing anything, read the reference files you need:
    Map every post to one audience pain and one funnel stage.
 5. **Write every post** using the template. Choose the reel type (ambient loop or
    hidden-story reel, see `flow-prompt-lessons.md`; 1–2 ambient loops per week). Strange hook,
-   hidden-story script with timings, Flow prompts clip by clip **using formula v2 + suffix v2**, ElevenLabs VO script, caption, CTA keyword, 5 hashtags,
+   hidden-story script with timings, Flow prompts clip by clip **using prompt structure v3 from `cinematic-generation-standard.md`, with the Kate identity block in every clip where she appears, and a one-line continuity note per reel**, ElevenLabs VO script, caption, CTA keyword, 5 hashtags,
    affiliate angle, compliance line.
 6. **Stories:** 3 per day following the daily Story rhythm in `audience-psychology.md`.
 7. **Production checklist + credit budget** table so the user can batch-generate.
@@ -74,9 +75,12 @@ Before writing anything, read the reference files you need:
 
 - **Faceless always.** Hands, back view, over-the-shoulder, silhouettes, reflections with no
   face, feet, objects. Never generate Kate's face.
-- **Brown vibes, phone-real.** Every Flow prompt follows the Top rules and ends with
-  **suffix v2** from `flow-prompt-lessons.md` (warm inside / cool outside, 1–2 hero objects,
-  one moving element, no faces, no text).
+- **Cinematic Generation Standard v3 for every prompt.** Priorities: photographic realism ·
+  historically accurate details · beautiful but believable lighting · natural human movement ·
+  cinematic camera behaviour · consistency between scenes. Every prompt is standalone and
+  covers all 7 parts; it includes the **Kate identity block** (fair skin with warm undertones,
+  mocha nails, gold ring, oatmeal knit cuff / chestnut claw-clip hair from behind) whenever
+  any part of her shows. Brown, cosy, warm-inside/cool-outside, as in `flow-prompt-lessons.md`.
 - **Format is fixed:** 4 Reels + 1 Carousel + 3 Stories/day. Extra ideas go to a
   "Backlog for next week" line, not into the plan.
 - **Every post has:** a strange hook (≤ 12 words), one CTA keyword, a caption that opens with

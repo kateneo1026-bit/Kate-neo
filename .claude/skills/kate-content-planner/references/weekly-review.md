@@ -27,7 +27,7 @@ Account level: followers start → end · Story views/day · Story replies · Br
 | Good views, low follows | No promise / no series | Series name on screen, "follow for Part 2", pin it |
 | High saves, low clicks | Link too far away | Keyword DM + Story link the same day; numbered bio link |
 | High shares, low saves | Mood is good, value is low | Add one practical line in the caption (where / price / how) |
-| Low everything on an AI clip | Looked fake | Check the clip against the Top rules; go simpler, phone-real |
+| Low everything on an AI clip | Looked fake | Check the clip against the Cinematic Generation Standard v3 and the Kate identity block; simplify the scene |
 | Ambient loop beats story reels | Audience wants mood | Use 2 ambient loops next week, keep the affiliate link in caption and Stories |
 
 ## 4. Decide (max 3 changes a week)

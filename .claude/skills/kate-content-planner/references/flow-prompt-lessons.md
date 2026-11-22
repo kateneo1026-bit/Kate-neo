@@ -2,20 +2,21 @@
 
 > Living file. The **daily review** and **weekly review** add new lessons at the bottom (Lessons log).
 > A lesson that works **twice** gets promoted to "Top rules". Always read the Top rules before writing Flow prompts.
+> **The master standard is `cinematic-generation-standard.md` (v3).** Every prompt uses its structure and the Kate identity block. This file adds the composition and mood lessons on top.
 
 ---
 
 ## Top rules (read before every prompt)
-1. **Two temperatures:** warm amber light *inside* (lamp, candle, 2700K) against cool blue-grey light *outside* (rain, dusk, overcast). About 70% warm and 30% cool. This contrast is the "cosy" feeling.
-2. **The window sandwich:** a sharp object in the foreground (cup, book, croissant) + a glass with **raindrops** in the middle + a **blurred street** behind. This was the most successful composition in the references.
-3. **One hero object, max 3–5 objects in total.** Busy, perfectly symmetrical sets look fake and got the weakest numbers.
-4. **Phone-real, not "cinematic".** Write `photorealistic, shot on a phone, handheld` and real imperfections (crumbs, a wrinkled napkin, a worn book corner, uneven latte art). Don't write `cinematic, 8k, ultra-detailed, epic`.
-5. **Something must move** (it's a video): rain drops running down glass, steam, candle flicker, blurred people with umbrellas walking, a page turning, a hand pouring. One gentle movement is enough.
-6. **Faceless intimacy = body traces:** knees under a book, a knitted sleeve, a hand pouring, a back view under an umbrella. The viewer becomes Kate.
-7. **Brown, not orange or grey.** Chocolate knit, cognac leather, walnut wood, caramel, cream, ochre leaves. Highlights creamy (not pure white), shadows deep brown (not pure black).
-8. **No text and no logos in the generation.** Add text later in Instagram (AI letters come out broken).
-
----
+0. **Follow the Cinematic Generation Standard v3** (`cinematic-generation-standard.md`): lighting, camera, movement, materials, environment, quality, negatives, in every prompt.
+1. **Kate identity block in every prompt where she appears.** Fair skin with warm undertones, mocha almond nails, thin gold ring, oatmeal knit cuff, chestnut hair in a claw clip from behind. Never leave it to Flow.
+2. **Two temperatures:** warm amber light *inside* (lamp, candle) against cool blue-grey light *outside* (rain, dusk, overcast), about 70/30, always from a real, named source.
+3. **The window composition:** a sharp object in the foreground (cup, book, croissant) + a glass with **raindrops** in the middle + a **blurred street** behind. This was the most successful composition in the references.
+4. **One hero object, max 3–5 objects in total.** Busy, perfectly symmetrical sets look fake and got the weakest numbers.
+5. **Photographic realism with cinematic camera behaviour:** a named lens, shallow depth of field and ONE slow, controlled movement. Add real imperfections (crumbs, worn corners, scratches in wood, uneven latte art). No plastic textures.
+6. **Something must move gently:** rain running down glass, steam, candle flicker, blurred people with umbrellas walking away, a page turning, a slow pour.
+7. **Hands: one hand, one slow action, describe the grip, 50mm medium close-up.** No text or labels on objects.
+8. **Brown, not orange or grey.** Chocolate knit, cognac leather, walnut wood, caramel, cream, ochre leaves. Highlights controlled (creamy, not white), shadows deep brown (not black).
+9. **Consistency:** same identity, outfit, props, time of day and light direction in every clip of one reel.
 
 ## Analysis of the 16 reference screenshots (22 Nov 2026)
 
@@ -51,67 +52,44 @@
 
 ---
 
-## Kate's visual identity v2 (use instead of the old suffix)
-
-**New brand suffix (paste at the end of every video prompt):**
-`photorealistic, shot on a phone, natural handheld feel, warm amber lamp light inside against cool blue-grey rainy daylight outside, chocolate brown, caramel and cream tones, soft contrast, creamy highlights, real textures and small imperfections, shallow depth of field, subtle grain, no faces, no text, no logos, vertical 9:16`
-
-**For images (carousel, covers, Stories):** same suffix but end with `vertical 4:5` (feed) or `vertical 9:16` (Stories).
+## Kate's visual identity
+**Prompt structure:** use **structure v3** from `cinematic-generation-standard.md` (SCENE · KATE · CAMERA · LIGHT · MATERIALS · ENVIRONMENT · MOOD & COLOUR · QUALITY · SOUND · AVOID).
+**Retired:** suffix v1 ("35mm film look…") and suffix v2 ("shot on a phone…"). Don't use them any more.
 
 **Kate's sets (create once as Flow reference images, "ingredients"):**
 | Name | What it is (from the references) |
 |---|---|
-| `kate-window` (NEW, signature) | Wide wooden windowsill, brass lamp with a pleated cream shade (on), dried hydrangeas in a cream vase, chocolate chunky knit throw, speckled cream stoneware mug with a brown rim, worn brown leather book, rain on the glass, London terraced houses with chimney pots outside |
-| `kate-hands` | Slim hands, mocha almond nails, thin gold ring, the sleeve of an oversized oatmeal/camel knit jumper |
-| `kate-back` | Back view, long chestnut hair in a low claw-clip bun, chocolate wool coat **or** brown blazer + skirt, tan quilted shoulder bag, a clear dome umbrella |
+| `kate-window` (signature) | Wide wooden windowsill, brass lamp with a pleated cream shade (on), dried hydrangeas in a cream vase, chocolate chunky knit throw, speckled cream stoneware mug with a brown rim, worn brown leather book, rain on the glass, London terraced houses with chimney pots outside |
+| `kate-hands` | **Fair skin with warm undertones**, slim hands, five correctly formed fingers, mocha almond nails, thin gold ring on the right index finger, small gold watch with a brown leather strap, oatmeal/camel knit cuff. **Make this image first, check the hands carefully, and reuse it.** |
+| `kate-back` | Back view, fair skin, long chestnut hair in a low tortoiseshell claw clip, chocolate wool coat **or** brown blazer + skirt with dark tights, tan quilted shoulder bag, clear dome umbrella |
 | `kate-flat` | Walnut wood, linen curtains, cream bouclé chair, warm lamps at three heights, books, dried flowers |
 
 ---
 
-## Prompt formula v2
-`[POV or shot type + gentle camera move], [Kate's body trace: hand / knees / back], [1–2 hero objects with a small imperfection], [foreground → window/glass → background layers], [light: warm inside vs cool outside + time of day], [ONE moving element], + SUFFIX v2`
+## Kate's daily routine: scene library (fill into structure v3)
+For each scene: the SCENE, KATE, CAMERA and LIGHT lines. Then add MATERIALS, ENVIRONMENT, MOOD & COLOUR, QUALITY, SOUND and AVOID from the standard.
 
-### Kate's daily routine: master prompts (ready to use)
-Each one = one 8-second clip, which can loop as a whole reel or be part of a story reel.
-
-**07:00 · Wake-up light** `[kate-flat]`
-> Static shot from the pillow level, early morning dark bedroom, a round sunrise lamp on a walnut bedside table slowly glows warmer, rumpled oatmeal linen sheets in the foreground slightly out of focus, rain-blue dawn at the curtain edge, only the lamp light moves, + SUFFIX v2
-
-**07:30 · Coffee at the window (signature shot)** `[kate-window]` `[kate-hands]`
-> Close-up at a wooden windowsill, a hand with mocha nails and a gold ring places a steaming speckled cream mug next to a worn leather book and a chocolate chunky knit throw, a brass lamp with a pleated shade glows warm on the left, dried hydrangeas, raindrops running down the glass, blurred London terraced houses with chimney pots outside under a grey sky, steam curling slowly, + SUFFIX v2
-
-**08:15 · Walk to work** `[kate-back]`
-> Back view following a young woman walking slowly on a wet London pavement covered with ochre autumn leaves, clear dome umbrella, brown blazer and skirt, dark tights, tan quilted shoulder bag, holding a takeaway coffee cup, golden trees and blurred red bus lights in the distance, light drizzle, overcast soft daylight, + SUFFIX v2
-
-**12:30 · Lunch-break window table** `[kate-hands]`
-> POV seated at a small black marble café table by a big window, a cappuccino with imperfect latte art and a flaky croissant with crumbs on a white plate, raindrops on the glass, a blurred European street outside with people under umbrellas walking past, a candle glass flickering, blue midday rain light outside and warm amber light inside, + SUFFIX v2
-
-**17:30 · Train home (commute/travel template)** `[kate-hands]`
-> POV from a train seat, knees in dark jeans and the edge of an oatmeal knit sleeve, an open paperback resting on the knees with a page lifting slightly, a rainy window with drops sliding sideways, grey sky and soft green fields rushing past out of focus, dim warm carriage light, + SUFFIX v2
-
-**19:00 · Tea pour** `[kate-hands]`
-> Close-up, a hand in a cream knit sleeve pours golden tea from a glass teapot into a stoneware mug on a check tablecloth, real steam rising, an open book and a lit candle in jar beside it, dried hydrangeas in a dark vase by a window with late golden-hour light, + SUFFIX v2
-
-**21:00 · Reading nook (top-down, great for carousels)** `[kate-flat]`
-> Top-down slow drift over an open old book with a pressed dried flower on the page, a lit candle in an amber glass jar, a speckled cup of black coffee, a cream chunky knit blanket underneath, warm lamp light from one side, the candle flame flickering, + SUFFIX v2
-
-**Weekend · Bookshop café (hidden place template)** `[kate-hands]`
-> Handheld POV on a grey sofa in a stone-walled café, an open book in the blurred foreground, a cappuccino and an iced cinnamon bun on a wooden board, a canvas tote bag with a line drawing (no readable letters), soft window daylight, the camera breathes slightly, + SUFFIX v2
-
-**City break · Back view at a landmark** `[kate-back]`
-> Back view, a young woman in a long brown coat with a canvas tote walks slowly down old stone steps towards a historic castle-like building on a hill, golden autumn trees, an iron lamp post, damp overcast light, hair moving in the wind, + SUFFIX v2 (name the real place only in the caption)
-
-**Evening café terrace after rain** `[kate-back]`
-> Back view of a young woman under a black umbrella walking past a softly lit café with wicker chairs and candles on the tables, wet pavement reflecting the warm lights, blue dusk, slow handheld follow, + SUFFIX v2
+| Time | Scene | KATE | CAMERA | LIGHT |
+|---|---|---|---|---|
+| 07:00 Wake-up | Dark bedroom, sunrise lamp on a walnut bedside table slowly warming | none (or one hand reaching from linen sheets, identity block) | pillow height, 35mm, shallow DoF, locked-off | the lamp only, blue dawn at the curtain edge |
+| 07:30 Window coffee (signature) | `kate-window` set: steaming speckled mug, leather book, knit throw, rain on glass, terraced houses + chimney pots | one hand placing the mug down, fingers through the handle | windowsill level, 50mm, focus on the mug, slow push-in | brass lamp from the left, cool rainy daylight from the window |
+| 08:15 Walk to work | Wet London pavement with ochre leaves, blurred red bus lights far away | back view, identity block, clear dome umbrella, takeaway cup, natural walking rhythm and body weight | behind her at hip height, 35mm, slow follow at walking pace | overcast diffuse daylight, light drizzle |
+| 12:30 Lunch window | Black marble café table, cappuccino with uneven latte art, croissant with crumbs, plain unlabelled candle glass | optional: one hand lifting the cup | seated POV, 35mm, focus on the cup, street blurred, gentle handheld drift | cool rain light from the window, warm candle |
+| 17:30 Train home | Open paperback on her knees, rainy window, grey sky, green fields passing | legs/POV identity block + oatmeal cuff at the edge | POV from the seat, 28mm, slow natural sway of the train | dim warm carriage light, cool window light |
+| 19:00 Tea pour | Glass teapot, stoneware mug, check tablecloth, dried hydrangeas, open book | one hand pouring slowly, fingers around the teapot handle | 50mm medium close-up at table height, locked-off | late golden window light from the side + candle |
+| 21:00 Reading nook | Open old book with a pressed dried flower, amber candle jar (no label), speckled cup, cream knit blanket | optional: fingertips turning one page | top-down, 40mm, very slow lateral drift | one warm lamp from the side, candle flicker |
+| Weekend bookshop café | Stone-walled café, grey sofa, cappuccino, iced cinnamon bun, book in the blurred foreground | none or one hand on the book | POV seated, 35mm, foreground book out of focus | soft window daylight + warm wall lamps |
+| City break | Old stone steps to a historic building, golden trees, iron lamp post | back view identity block, long brown coat, canvas tote, natural walking rhythm | behind her, 50mm, slow follow | damp overcast light |
+| Evening café after rain | Lit café with wicker chairs and candles, wet pavement reflections | back view under a black umbrella walking past | 35mm, slow handheld follow from behind | blue dusk + warm café windows reflecting on the wet stones |
 
 ### Text-on-screen lines (inspired by the best performers)
-One line, lowercase, small serif, centred, cream. Relatable feeling + a hint of identity:
+One line, lowercase, small serif, centred, cream. Added in Instagram, **never in Flow**:
 - *"the weather my soul was waiting for"*
 - *"a little rain, a little coffee, no one needs me until 9"*
 - *"this, and no plans"*
 - *"the quiet ones know this feeling"*
 - *"the urge to disappear for a weekend and come back calmer"*
-Use these for **ambient loop reels**. For **story reels**, keep the strange hook (SKILL rule) on the first frame.
+Use these for **ambient loop reels**. For **story reels**, keep the strange hook on the first frame.
 
 ### Two reel types
 | Type | Length | Flow clips | Voice | When |
@@ -124,8 +102,9 @@ Even ambient loops need a CTA in the caption (keyword or "send this to…").
 ---
 
 ## Negative list (never in prompts)
-`cinematic`, `epic`, `8k`, `ultra-detailed`, `hyper-realistic` (looks plastic), `symmetrical`, `perfect`, `crowd`, `face`, `smiling woman`, `text`, `sign with words`, `logo`, brand names (Chanel, Starbucks…), `neon`, `teal and orange`.
+`epic`, `8k`, `ultra-detailed`, `hyper-realistic` (they make textures plastic), `symmetrical`, `perfect`, `crowd`, `face`, `smiling woman`, `text`, `sign with words`, `label`, `logo`, brand names (Chanel, Starbucks…), `neon`, `teal and orange`.
 If people appear in the background, write `blurred people with umbrellas walking away, no faces visible`.
+`cinematic` **is allowed** only together with camera and lighting details (lens, DoF, one movement, motivated light), as in the standard.
 
 ---
 
@@ -137,3 +116,6 @@ If people appear in the background, write `blurred people with umbrellas walking
 | 2026-11-22 | #5, #11 | Too many objects / grey grade / no human trace = weak numbers | Top rule |
 | 2026-11-22 | #2, #6, #10 | One lowercase identity line on screen drives shares | Testing |
 | 2026-11-22 | #15, #16 | Single 8–12 s looped clip works as a full reel (saves Flow credits) | Testing |
+| 2026-11-22 | Reel 4 clip A (Flow, user screenshot) | No skin tone or hand description → Flow chose a different skin tone from the one the user wants for Kate, deformed right hand, nails/ring missing, text on the candle label, unnatural flour pattern | **Fixed:** Kate identity block mandatory (Top rule 1), hand rules (Top rule 7), "plain unlabelled" objects |
+| 2026-11-22 | User decision | Adopt the user's **Cinematic Generation Standard v3**; suffix v1/v2 retired | Top rule 0 |
+

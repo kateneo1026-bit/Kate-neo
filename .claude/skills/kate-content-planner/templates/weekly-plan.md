@@ -21,7 +21,8 @@
 - **Pillar / Pain / Funnel stage:**
 - **Strange hook (screen + VO):**
 - **Script (timings):** table with Time | Visual (Flow clip) | VO / text
-- **Google Flow prompts:** Clip A…D, formula v2 + suffix v2, ingredient used
+- **Continuity note:** time of day · light direction · outfit · props
+- **Google Flow prompts:** Clip A…D, full standalone prompts in structure v3 (Cinematic Generation Standard), Kate identity block, ingredient used
 - **ElevenLabs VO (≈ words):** the script, with pauses
 - **Caption:** starts with the ad label
 - **CTA:** keyword + second CTA

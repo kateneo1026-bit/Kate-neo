@@ -34,10 +34,10 @@
    - `kate-flat`: living room with walnut wood, linen curtains, cream bouclé chair, warm lamps.
    - `kate-window` (signature): rainy London windowsill with brass lamp, dried hydrangeas, knit throw, speckled mug, leather book.
 2. Use **Ingredients to Video** with the right reference for each clip.
-3. Always end with **suffix v2** (it already says "no faces, no text, no logos").
+3. Always write the **Kate identity block** in the prompt as well (some models/features don't accept ingredients; the text must carry her look). Check the reference hands image carefully before reusing it.
 
 ## Flow prompt formula
-Use **formula v2, suffix v2 and the master prompts** in `flow-prompt-lessons.md`. That file replaces the old formula.
+Use **structure v3** in `cinematic-generation-standard.md` and the scene library in `flow-prompt-lessons.md`. Every prompt is standalone: Flow doesn't remember earlier prompts.
 An ambient loop reel = **1 clip (10 credits)**, so it's the cheapest reel type on the free tier.
 
 **Shot types that work for faceless:** POV hands, over-the-shoulder, back view walking, top-down (flat lay),
