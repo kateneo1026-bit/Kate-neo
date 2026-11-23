@@ -15,11 +15,12 @@ Set by Kate on 22 Nov 2026. It applies to **every** Stories plan: weekly plans, 
 - **Rule 15 (two-round rule):** if a clip fails twice, use the spare. If the spare fails too, post the story as an image instead.
 
 ## Gemini image rules
-- Start with `Vertical 9:16 (1080×1920) photorealistic photo`.
-- Describe one subject, the light, the colour palette (warm brown tones) and the mood.
+- Start with `Vertical 9:16 (1080×1920) realistic lifestyle photo, looks taken on a good phone camera, true-to-life colours, gentle warm white balance, soft natural contrast, well exposed with open shadows, matte natural textures` (realism block, `references/realism-check.md`).
+- Describe a hero subject in a small still life (3–5 everyday props, one natural detail, one fabric), one light recipe from `references/realism-check.md` (window daylight by default, pale grey-white sky), the colour palette (cream, oatmeal, caramel, warm brown) and the mood.
+- Never `dark`, `moody`, `cinematic`, `blue dusk`, `2700K`, `polished wood`, `heavy bokeh`.
 - Ask for empty space for text: `the top third is calm and uncluttered`.
-- Always end with: `No text, letters, numbers, logos, watermarks or faces.` Add the words in Instagram, never in Gemini.
-- Real places: keep it generic (a lane, a pub bar, a garden), never "an exact copy" of a landmark.
+- Always end with: `No text, letters, numbers, logos, watermarks or faces. Not dark, no orange-and-teal grade, no blue sky, no glossy surfaces.` Add the words in Instagram, never in Gemini.
+- Real places: keep it generic (a lane, a pub bar, a garden), never "an exact copy" of a landmark. If a story names or shows a real place, describe it from real photos (Real-photo check, rule 7 in `references/flow-prompt-lessons.md`).
 
 ## Reshare stories (sharing a reel or carousel)
 Still give a Gemini prompt for the **background image** behind the shared post, plus the text on screen.
