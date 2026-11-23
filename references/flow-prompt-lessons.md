@@ -17,6 +17,8 @@ This notebook records what I've learnt making Kate's reels with Google Flow (Veo
 5. **The same "set" description, word for word, in every clip of a reel** (objects, colours, light, sleeve/hands), so the clips look like one place.
 6. **A colour palette line** (e.g. `honey gold, crimson, warm amber against muted navy dusk`).
 7. **Real places: describe the real details** from reference photos (look at them **before** the first prompt, never describe from memory) (wall colour, objects, lamps, signs). A generic prompt gives a generic place.
+   **Every clip, every time (Kate's rule, 23 Nov):** before writing any clip or image of a real place, write a **Real-photo check** table in the prompt file (real detail → what the prompt says), and put the details in the prompt **and** the wrong look in the Avoid line (e.g. `light wood, white ceiling, wood-burning stove`). No real photos seen yet → don't write that clip: ask Kate for 2–3 photos first.
+   **Real colours beat the default palette:** if the real place is dark (black oak), keep it dark and make it bright with **light** (windows, lamps, fire), never by changing the materials.
 8. **People:** `framed from the shoulders down` or `seen only from behind`. Faces are where AI fails most, and they break the "hidden" mood.
 9. **Audio line:** describe 2–3 natural sounds, then end with `No music, no speech.`
 10. **Avoid line:** `film grain, dust, specks, flickering, text, numbers, timestamps, watermarks, logos, faces, extra fingers, distorted hands, fast camera movement, dark underexposed image, crushed blacks, orange-and-teal colour grade, oversaturated colours, cyan or bright blue sky, blown-out lamp, glossy wet-looking surfaces, heavy bokeh, HDR look`.
@@ -159,6 +161,13 @@ Avoid: text, subtitles, logos, visible faces, modern clothing, fast movement.
 - **What the real-looking ones do:** soft window daylight, pale grey sky, muted cream/caramel colours, a full still life with natural details, matte textures, moderate focus with a place cue behind, still camera and one real-speed movement (a coffee pour).
 - **Correction:** new realism block and light recipes in `references/realism-check.md`; rules 2, 3, 10 updated; rules 16–20 added; Mon parrot reel and this week's Stories prompts rewritten.
 - **Lesson:** "cinematic" ≠ real. Real-looking = bright, muted, matte, full of everyday objects.
+
+### 2026-11-23 · Reel "Hidden London No. 1: the pub parrot" · Clip 1
+- **First prompt:** v1 in `content-plan/prompts/2026-11-23-parrot.md` (generic "honey-oak panelling, coal fire, pint and newspaper", written without real photos).
+- **What went wrong:** the parrot was excellent, but the room was a generic bright country pub: light pine panelling, white plaster ceiling, a black wood-burning stove, a side diamond-leaded window, and a newspaper with nonsense text. Nothing like Ye Olde Cheshire Cheese. My "honey oak" palette (from the realism update) made it worse.
+- **Correction:** rebuilt from Kate's real photos: almost-black oak panelling, low dark beamed ceiling, curved dark bar, small-paned windows and white glass pendant lamps behind it, a fireplace with an oxblood-red surround, a curved iron fire guard, horse brasses, a gilt portrait of a Victorian waiter, sawdust on the floor. Newspaper removed. Wrong looks added to Avoid.
+- **Final prompt:** v2 in the same file. Kate to confirm.
+- **Lesson:** do the Real-photo check for **every** clip of a real place before writing it (rule 7). Real colours beat the default palette: brightness comes from light, not paler materials.
 
 ### New entry template
 ```

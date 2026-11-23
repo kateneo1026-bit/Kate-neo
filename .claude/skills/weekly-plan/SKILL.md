@@ -35,6 +35,7 @@ Suggested days: Reel Mon, Wed, Fri · Carousel Tue, Sat · Sun = rest day (Stori
 - **Affiliate (optional, one line):** a natural link idea (hotel, restaurant, tour, home item). Only if it fits. If used, the caption must start with "#ad" (UK ASA rules).
 
 - **Google Flow prompts (when a reel will be made with Flow, or Kate asks for them):** first read `references/flow-prompt-lessons.md` and apply every point in "Rules that work". Write ~7-second clips (4 clips + 1 spare per reel).
+- **Real-photo check (every clip and image of a real place):** look at real photos first and write the check table (rule 7 in `references/flow-prompt-lessons.md`). If no photos are available, ask Kate for 2–3 before writing that prompt.
 - **Realism check:** also read `references/realism-check.md`. Every Flow/Gemini prompt starts with its realism block, uses one of its light recipes (window daylight by default) and its extra Avoid words, and passes its 30-second check. Never `cinematic`, `moody`, `dark`, `blue dusk`, `2700K`.
 
 ### For each Carousel

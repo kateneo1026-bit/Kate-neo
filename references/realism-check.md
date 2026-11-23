@@ -49,7 +49,11 @@ dark underexposed image, crushed blacks, orange-and-teal colour grade, oversatur
 
 ---
 
+## Real places come first
+The realism block makes a clip *look real*; it doesn't make it look like *the real place*. For a real place, do the **Real-photo check** (rule 7 in `flow-prompt-lessons.md`) for every clip first. Keep the place's real colours (black oak stays black oak) and make it bright with light (windows, lamps, fire). The light recipes and palettes here are only defaults for invented scenes.
+
 ## 30-second check before sending a prompt
+0. Real place? The Real-photo check table is written and every real detail is in the prompt.
 1. Is the light **daylight or well-lit**? No "dark", "moody", "deep shadows", "dim".
 2. Is any sky **pale grey-white** (or golden hour), never blue/navy/cyan?
 3. Is there a **still life of 4–6 real objects** + one natural detail + one fabric?

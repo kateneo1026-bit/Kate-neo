@@ -20,7 +20,7 @@ Set by Kate on 22 Nov 2026. It applies to **every** Stories plan: weekly plans, 
 - Never `dark`, `moody`, `cinematic`, `blue dusk`, `2700K`, `polished wood`, `heavy bokeh`.
 - Ask for empty space for text: `the top third is calm and uncluttered`.
 - Always end with: `No text, letters, numbers, logos, watermarks or faces. Not dark, no orange-and-teal grade, no blue sky, no glossy surfaces.` Add the words in Instagram, never in Gemini.
-- Real places: keep it generic (a lane, a pub bar, a garden), never "an exact copy" of a landmark.
+- Real places: keep it generic (a lane, a pub bar, a garden), never "an exact copy" of a landmark. If a story names or shows a real place, describe it from real photos (Real-photo check, rule 7 in `references/flow-prompt-lessons.md`).
 
 ## Reshare stories (sharing a reel or carousel)
 Still give a Gemini prompt for the **background image** behind the shared post, plus the text on screen.

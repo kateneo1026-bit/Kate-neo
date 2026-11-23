@@ -34,6 +34,7 @@ The account is small, so compare posts with each other, never with big accounts.
    - **Topic or format:** move towards what performed best (e.g. more hidden story, a time stamp in the hook, more natural sound), but keep the post type that's planned for today.
    - **Caption:** keep the search keywords, and strengthen the first line.
    - **Google Flow prompts** (if today is a reel made with Flow): **first read `references/flow-prompt-lessons.md` and apply every point in "Rules that work".** Then update the prompts only where needed.
+   - **Real-photo check (every clip and image of a real place):** look at real photos first and write the check table (rule 7 in `references/flow-prompt-lessons.md`). If no photos are available, ask Kate for 2–3 before writing that prompt.
    - **Realism check:** also read `references/realism-check.md`. Every Flow/Gemini prompt starts with its realism block, uses one of its light recipes (window daylight by default) and its extra Avoid words, and passes its 30-second check. Never `cinematic`, `moody`, `dark`, `blue dusk`, `2700K`.
    - When Kate shares how her Flow clips turned out (what went wrong, what fixed it), add an entry to the "Log" in `references/flow-prompt-lessons.md`. If the fix is a new lesson, add it to "Rules that work" too. When Kate sends screenshots of our clips next to reels she likes, compare them with the table in `references/realism-check.md` and add any new difference there.
 3. If today is a Stories-only day, improve the 3 Stories instead.
