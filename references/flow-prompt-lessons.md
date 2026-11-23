@@ -169,6 +169,12 @@ Avoid: text, subtitles, logos, visible faces, modern clothing, fast movement.
 - **Final prompt:** v2 in the same file. Kate to confirm.
 - **Lesson:** do the Real-photo check for **every** clip of a real place before writing it (rule 7). Real colours beat the default palette: brightness comes from light, not paler materials.
 
+### 2026-11-23 · Parrot reel v2 results (Kate's CapCut screenshots, 18:16)
+- **Clip 1 ✅:** the real-photo check worked: near-black panelling, red fireplace, iron guard, bell pendants, gilt portrait. Small issue: shiny bar top.
+- **Clip 2 ⚠️:** "seen only from behind" failed: the men stood *beside* the parrot, so Flow showed profiles and a smiling face. **Correction:** put the camera behind them (`the camera stands behind… their backs fill the left of the frame… heads stay turned away… no face and no profile`) + Avoid `profiles, side faces, smiling faces, heads turning towards the camera`. Quick fix: crop/zoom in CapCut.
+- **Clip 3 ⚠️:** the feather stood upright in the perch like a quill, and the room changed (white walls, other portrait). **Correction:** `lands flat on its side… lies still` + Avoid `feather standing upright, quill`; always use the clip 1 frame as ingredient; name the background walls in the close-up.
+- **Lesson:** people next to the subject turn their faces: place the camera behind them. Small falling objects need "lands flat". Close-ups drift to a new room unless the ingredient and the background walls are named.
+
 ### New entry template
 ```
 ### YYYY-MM-DD · Reel "[hook]" ([lifestyle / hidden story])
