@@ -56,4 +56,12 @@ The examples are templates. Check every fact before you post.
 30. **"Things in my home that feel like they have a story."**
 
 ---
-**Make your own:** strange detail + specific place + a reason to keep watching. Keep it to 12 words or fewer.
+## What Kate's data says (update after each review)
+- **Short and concrete wins.** The only breakout (432 views) had a 7-word hook: *A London shop built from two warships*. Aim for **8 words or fewer** on screen. Put extra detail in the voiceover.
+- **Big, bold and well spelled.** Show the hook in large text on 2–3 lines in the top third, with correct capitals. (22 Nov: small text with lowercase "british" → 122 views.)
+- **Time words keep people watching:** "Today", "6:40 a.m.", "In 1926". (22 Nov "Today…": 51% skip rate, the best so far.)
+- **Named places beat vague ones:** "somewhere in Europe" got 88 views, the lowest.
+- **Seasonal hooks go out 1–2 days before the date,** not on the evening of the day itself.
+
+---
+**Make your own:** strange detail + specific place + a reason to keep watching. Keep it to 8 words or fewer on screen (12 maximum).

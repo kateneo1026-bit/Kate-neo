@@ -43,6 +43,7 @@ Every story in every plan states: **format** (image or video), a **ready-to-use 
 - **5 clips a day:** plan 4 clips + 1 spare for whichever fails.
 - **Text on screen, names and addresses:** always add them in CapCut, never rely on Flow for them.
 - If the end of a clip is blown out to white, lower Highlights in CapCut or cut before it.
+- **Hook text in CapCut:** big, bold, 2–3 lines in the top third, with correct capitals, and 8 words or fewer. Add a series label (e.g. "Hidden London · No. 1") and an **address end card** in the last 3s, so there's a reason to save.
 - Realistic AI scenes of real places: turn on Instagram's **AI label** and add "Scenes reimagined with AI" to the caption.
 
 ---
@@ -144,6 +145,12 @@ Avoid: text, subtitles, logos, visible faces, modern clothing, fast movement.
 - **Outcome (Kate, 22 Nov):** v4 failed too. No version gave a usable result, with many mistakes in every round, so **the reel was never posted**. A day of credits was lost.
 - **Why it failed:** the whole story depended on Flow copying **one unusual real object exactly** (a hollow granite pillar with a door). Flow can't do that reliably, even with reference photos and a master frame. The king's door reel worked because it relied on atmosphere and people from behind, and only one clip had to look like the real place.
 - **Lesson:** choose hidden stories that Flow can tell with **atmosphere, animals, objects and people seen from behind**. Keep the real place to one clip at most, or film it yourself. **Two-round rule:** if a clip fails twice, use the spare or drop the clip, and if the key visual fails twice, change the topic.
+
+### 2026-11-22 · Reel "Today, British families hide wishes in a pudding" (seasonal, Stir-up Sunday)
+- **Result:** 9s, 122 views, avg watch 4s (44%), **skip rate 51.4%, the best yet**. 0 saves, shares or follows. 95.5% women, 66% aged 18–34.
+- **What worked:** a bright, warm opening with hands already stirring at 0s (rules 4 and 13), and a "Today" time word.
+- **What went wrong:** small hook text with lowercase "british", no payoff or place to save, and posted on the evening of the day itself.
+- **Lesson:** a bright opening with hands in action cuts skips. The text and the payoff now decide saves and reach (see the new Workflow point on hook text).
 
 ### New entry template
 ```
