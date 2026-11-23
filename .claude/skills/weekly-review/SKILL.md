@@ -27,6 +27,8 @@ Save it to `reviews/review-YYYY-MM-DD.md` (today's date) with these sections:
 4. **Stop:** 1–3 things to drop or change (low score, weak hook, bad day or time)
 5. **Test next week:** 1 new idea to try
 
+6. **Look check:** if a post's notes mention a dark, orange or "AI-looking" result, add a Stop/Repeat line from `references/realism-check.md`.
+
 Be honest and short. Use plain English, with no jargon.
 
 ## 4. Next week
