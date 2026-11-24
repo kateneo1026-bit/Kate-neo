@@ -24,6 +24,7 @@ This notebook records what I've learnt making Kate's reels with Google Flow (Veo
 13. **Vary the light, and make the hook bright.** Not every reel at night: dark openings lose viewers. Golden hour (low warm winter sun) is bright *and* cosy.
 14. **Pick Flow-friendly topics.** The story must work without an exact copy of a strange real object (police box, specific statue, odd building). At most one clip has to look like the real place. Stories carried by people from behind, animals, candlelight or objects work best. (20 Nov police box: 4 rounds, never usable.)
 15. **Two-round rule.** A clip that fails twice → use the spare or drop it. The key visual fails twice → change the topic that day.
+16. **Famous buildings: one angle, bottom to top.** Pick the single view in a real photo (e.g. the west front, straight on), describe it from the doors up, and list what is *not* there in the Avoid line (`spire in front of the towers, dome`). Never mix parts seen from different sides. No small animals in landmark shots.
 
 ### Never
 - **"35mm film" or "grain"** in the prompt. It adds dust, black specks and fake date stamps (e.g. "9/13").
@@ -153,6 +154,13 @@ Avoid: text, subtitles, logos, visible faces, modern clothing, fast movement.
 - **What went wrong:** the hook text sat on top of the two bright pendant lamps and was hard to read. 0 sends, 0 saves: the visuals are no longer the problem, the topic needs a stronger reason to send.
 - **Lesson:** keep hook text on a calm, darker area. Clip quality is now good enough: spend the effort on the topic's "send" twist.
 - Kate: tell me how each clip did, and I'll add the details.
+
+### 2026-11-24 · Reel "In 2019, Notre-Dame burned. 180,000 bees on its roof survived." (hidden story, Paris)
+**Clip 4: Notre-Dame today**
+- **First prompt:** a side view from the Seine quay: "the long nave with its flying buttresses, the slender restored spire in the centre, and the two square towers behind", plus a bee crossing the foreground.
+- **What went wrong (Kate's screenshot):** Flow mixed the views: a tall spire stood *in front of* the towers, a dome appeared in the middle, the towers were thin and pointed, and the bee came out huge and blurry.
+- **Correction (v2):** one simple, straight-on view (the west front from the square), described from Kate's real photo, top to bottom: three portals → row of king statues → rose window → open arched gallery → two identical flat-topped square towers, no spires. Avoid line: `spire in front of the towers, dome, cupola, pointed tower tops`. No bee in that clip. Spare: a closer tilt from the kings to the rose window.
+- **Lesson (new rule 16):** for a famous building, choose **one camera angle** that matches a real photo, describe it **from bottom to top**, and say what is **not** there (no spire, no dome). Don't mix parts that are only visible from different sides. Keep small animals out of landmark shots (they come out giant).
 
 ### New entry template
 ```
