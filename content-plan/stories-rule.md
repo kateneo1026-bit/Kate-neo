@@ -7,7 +7,7 @@ Set by Kate on 22 Nov 2026. It applies to **every** Stories plan: weekly plans, 
 2. **Ready-to-use prompt:**
    - 🎬 Video → a **Google Flow** prompt (follow every point in "Rules that work" in `references/flow-prompt-lessons.md`)
    - 🖼️ Image → a **Gemini** prompt (see the image rules below)
-3. **Text on screen:** the exact words, plus the sticker (poll, quiz, question, countdown, link) if there is one
+3. **Text on screen:** the exact words, plus the sticker (poll, quiz, question, countdown, link) if there is one. **Check the spelling of every sticker option before posting** (23 Nov: a poll said "Cut" for "Cat").
 4. **🎬 Video only: a spare prompt.** It must be a simpler or different take on the same idea.
 
 ## Apply rules 14 and 15 to Stories too

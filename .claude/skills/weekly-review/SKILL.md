@@ -6,7 +6,7 @@ description: Read tracking/results.csv for the "Kate" Instagram account, say wha
 # Weekly review for "Kate"
 
 ## 1. Read the data
-- Open `tracking/results.csv`. Columns: `date,type,topic,hook,views,saves,shares,comments,new_followers,notes`.
+- Open `tracking/results.csv`. Columns: `date,type,topic,hook,views,saves,shares,reposts,comments,new_followers,avg_watch_s,skip_rate,notes`.
 - Ignore rows where `views` is empty: they're planned posts that haven't been posted yet or have no numbers yet.
 - Focus on the last 7 days, and compare them with older rows if there are any.
 
@@ -15,6 +15,8 @@ description: Read tracking/results.csv for the "Kate" Instagram account, say wha
 - **Share rate** = shares ÷ views
 - **Follow rate** = new_followers ÷ views
 - **Score** = (saves + 2 × shares + comments + 3 × new_followers) ÷ views × 100
+
+Also track `avg_watch_s` and `skip_rate` week on week (they show if hooks are improving), and count how many reels **broke the ~120 wall** (Instagram's first test group; see `reviews/diagnosis-2026-11-24.md`). Ignore the 1 repost nearly every reel gets.
 
 Shares and new followers count most: the goal is to build a community. The account is small, so judge posts **against each other**, not against big-account benchmarks. With fewer than 5 posts, say the data is too thin and give direction rather than firm conclusions.
 
@@ -26,6 +28,7 @@ Save it to `reviews/review-YYYY-MM-DD.md` (today's date) with these sections:
 3. **Repeat:** 3 concrete actions (e.g. "Another hidden-story reel about an old London shopfront, using hook formula 7")
 4. **Stop:** 1–3 things to drop or change (low score, weak hook, bad day or time)
 5. **Test next week:** 1 new idea to try
+6. **Account health (3 lines):** % of views from followers, Story viewers vs followers, follows this week. Check that the bio and name field match the plan, and that the real audience (age, gender, country) still matches who the plan writes for.
 
 Be honest and short. Use plain English, with no jargon.
 
