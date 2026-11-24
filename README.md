@@ -10,5 +10,6 @@ Weekly format: **4 Reels + 1 Carousel + 3 Stories every day**. Use it in Claude 
 - Daily and weekly reviews are saved in [content-plan/reviews/](content-plan/reviews/). Prompt rules: `.claude/skills/kate-content-planner/references/cinematic-generation-standard.md` (master standard) and `flow-prompt-lessons.md` (lessons log).
 
 ## Weekly plans (Wednesday → Tuesday)
+- [Wed 25 Nov – Tue 1 Dec 2026](content-plan/week-2026-11-25.md): 4 Reels, 1 Carousel, 21 Stories (theme: real stories, real places, before December) · [review of the previous week](content-plan/reviews/week-2026-11-18-review.md)
 - [Wed 18 – Tue 24 Nov 2026](content-plan/week-2026-11-18.md): 4 Reels, 1 Carousel, 21 Stories (theme: warm rituals for the dark weeks)
 - [Earlier draft · 23–29 Nov 2026](content-plan/week-01-2026-11-23.md): 9 Reels, 1 Carousel, 21 Stories (travel-only, written before the skill)

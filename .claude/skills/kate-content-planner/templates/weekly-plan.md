@@ -24,7 +24,7 @@
 - **Continuity note:** time of day · light direction · outfit · props
 - **Google Flow prompts:** Clip A…D, full standalone prompts in structure v3 (Cinematic Generation Standard), Kate identity block, ingredient used
 - **ElevenLabs VO (≈ words):** the script, with pauses
-- **Caption:** starts with the ad label
+- **Caption:** starts with the ad label (when there are links); the **comment keyword and a one-word question are in the first 2–3 lines**
 - **CTA:** keyword + second CTA
 - **Hashtags (5):**
 - **Affiliate angle + link-in-bio number:**

@@ -124,3 +124,7 @@ If people appear in the background, write `blurred people with umbrellas walking
 | 2026-11-22 | Reel 4 clip D | "plain unlabelled candle jar" still produced labels with fake text. Ask for "clear amber glass with no sticker" or a candle in a brass holder (no jar) | Testing |
 | 2026-11-22 | Reel 4 clip C | "wrapped in baking paper" made paper stick up. Describe the shape: "top covered flat by pleated paper, string under the rim" | Testing |
 | 2026-11-22 | Reel 4 order | Clips must get darker in story order (dusk → night). A brighter clip in the middle breaks the timeline, so fix it with the edit or a prompt that sets the time of day | Testing |
+| 2026-11-24 | Weekly review (Metricool) | Diary-style first frame ("6:40 a.m.") = 82% skipped in 3 s. Even ambient loops need a strange, factual hook on frame 1 and motion from the first second | Testing (test again 25 Nov) |
+| 2026-11-24 | Weekly review | "Secret + famous person + real place you can book" (Rules reel) = best watch time (7.8 s) and the only save | Testing |
+| 2026-11-24 | Weekly review | 4-clip story reel (Stir-up) kept people in the first 3 s (52% skip) but lost them after. Aim for ~20 s and reveal the answer by second 8 | Testing |
+

@@ -11,7 +11,10 @@
 | Tiny number | "[Small number] [things] that [big result]." | "Three £10 things that make a rented flat feel warm." |
 | Warning | "Don't [common action] before you know this." | "Don't book a Christmas market trip before watching this." |
 | POV | "POV: you finally found the [hidden place]." | "POV: the café behind the bookshop door." |
+| Secret + famous name (**proven 19 Nov**: best watch time) | "A [king/writer/queen] had a secret [door/room/table] in this [place]." | "A king had a secret door built in this London restaurant." |
+| The story may not be true | "This [famous thing]'s [founder/origin] may never have existed." | "This Bath bun's famous baker may never have existed." |
 
+**Never open with a diary line** ("6:40 a.m. …", "My Sunday…"): 82% skipped it (review 24 Nov).
 **Tests:** Is it specific? Is it a little odd? Does it open a question that only the end of the reel answers?
 First frame must *show* the strangeness (a lit window, a knock on a door, a candle at 4pm).
 
