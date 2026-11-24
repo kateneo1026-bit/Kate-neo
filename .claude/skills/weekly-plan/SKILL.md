@@ -8,7 +8,8 @@ description: Generate next week's Instagram plan for the "Kate" account (Quiet d
 ## The account
 - **Name:** Kate. **Bio:** "Quiet days and Hidden stories"
 - **Niche:** brown lifestyle (warm brown aesthetic: coffee, wood, linen, old stone, soft light) + hidden stories about UK and European places (cafés, old buildings, hotels, restaurants, streets, food)
-- **Audience:** UK and Europe, English language
+- **Audience:** UK and Europe, English language. **Real reel viewers (Nov 2026 data):** ~70% UK, ~70% men, ~50% aged 45+. They are history and London/Europe lovers who come for the story. Write for them; the brown, cosy look is the *style*, not a separate audience.
+- **Profile:** name field `Kate · Hidden London & Europe`, bio promising a new story Mon/Wed/Fri. Series labels: "Hidden London · No. X" and "Hidden Europe · No. X".
 - **Goal:** build a small, loyal community first. Earn affiliate income later from hotels, restaurants, travel guides and tours, home decor and useful home items.
 - **Filming:** Android phone only, alone, no face needed. Use natural sound and a calm voiceover or text on screen.
 
@@ -19,7 +20,7 @@ description: Generate next week's Instagram plan for the "Kate" account (Quiet d
 4. The plan starts on the **next Monday** after today, unless Kate gives a date.
 
 ## What to produce (exactly)
-- **3 Reels:** 2 lifestyle (vibe) + 1 hidden story
+- **3 Reels:** 2 hidden stories + 1 lifestyle (hidden stories get the reach; lifestyle reels must move, never a still collage)
 - **2 Carousels:** 1 lifestyle + 1 hidden story
 - **3 Stories per day**, Monday to Sunday (21 in total)
 
@@ -27,11 +28,12 @@ Suggested days: Reel Mon, Wed, Fri · Carousel Tue, Sat · Sun = rest day (Stori
 
 ### For each Reel
 - **Topic:** one line
+- **Send reason (hidden stories):** one line saying why someone would send it to a friend. Best pattern: a famous UK/European place + an impossible origin or a surprising survivor. If there's no send reason, pick another topic.
 - **Hook (first 2 seconds):** the words on screen + what the viewer sees. Make it strange, specific and calm, never clickbait shouting. Add the formula number.
 - **Script (25–30 s):** a table with columns time · shot (filmable on an Android phone, alone) · voiceover/text. Use 5–7 shots.
 - **Caption:** first line = the hook rephrased. Then 2–4 short lines. Work in **search keywords** naturally (e.g. "hidden café in London", "quiet weekend in Bruges"), because Instagram search reads captions.
 - **Hashtags:** 5–8, a mix of niche and place tags. No huge generic tags like #love.
-- **CTA:** one only. Use save, share, comment a word, or follow for more hidden stories.
+- **CTA:** one only. For hidden stories, default to **send** ("Send this to someone who loves [city]"). Otherwise save, comment a word, or follow the series.
 - **Affiliate (optional, one line):** a natural link idea (hotel, restaurant, tour, home item). Only if it fits. If used, the caption must start with "#ad" (UK ASA rules).
 
 - **Google Flow prompts (when a reel will be made with Flow, or Kate asks for them):** first read `references/flow-prompt-lessons.md` and apply every point in "Rules that work". Write ~7-second clips (4 clips + 1 spare per reel).
@@ -48,6 +50,8 @@ A table with columns day · morning (engage: poll, quiz or question) · midday (
 - Only use facts you're sure of. Mark anything to check with **[check]** (dates, prices, opening times).
 - Places must be real and reachable from the UK or Europe.
 - Keep it simple and filmable this week with a phone.
+- Flow topics follow rule 14 in `references/flow-prompt-lessons.md`: at most one clip must look like the real place.
+- Sticker options: check the spelling of every word (a poll once said "Cut" for "Cat").
 
 ## Output
 Save to `content-plan/week-YYYY-MM-DD.md` (Monday's date) with these sections:

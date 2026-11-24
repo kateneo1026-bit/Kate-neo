@@ -55,5 +55,14 @@ The examples are templates. Check every fact before you post.
     *A slow Sunday in brown tones.*
 30. **"Things in my home that feel like they have a story."**
 
+## Famous places, surprising facts (best reach so far)
+31. **"In [year], [famous place] [event]. [Something unexpected] survived / stayed."**
+    *In 2019, Notre-Dame burned. 180,000 bees on its roof survived.* [check]
+32. **"Everyone knows [famous building]. Almost nobody knows [impossible origin]."**
+    *Everyone knows Liberty. Almost nobody knows it's made of warships.*
+33. **"[Famous building] was never supposed to [last / be here / look like this]."**
+
+**Send test:** before using any hook, ask "Would someone send this to a friend with 'look at this'?" If not, find a stronger twist. (24 Nov: 8 of 9 reels stopped at ~120 views with 0 sends; the one with a send reached 431.)
+
 ---
 **Make your own:** strange detail + specific place + a reason to keep watching. Keep it to 12 words or fewer.

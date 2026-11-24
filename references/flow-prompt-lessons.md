@@ -43,6 +43,8 @@ Every story in every plan states: **format** (image or video), a **ready-to-use 
 - **5 clips a day:** plan 4 clips + 1 spare for whichever fails.
 - **Text on screen, names and addresses:** always add them in CapCut, never rely on Flow for them.
 - If the end of a clip is blown out to white, lower Highlights in CapCut or cut before it.
+- **Hook text goes on a calm, darker area** (ask for `the top third of the frame is calm` in clip 1). On the parrot reel the words sat on two bright lamps and were hard to read.
+- Real events (fires, wars, disasters): show **glow, smoke and objects**, never a realistic copy of the real building burning, and keep the AI label on.
 - Realistic AI scenes of real places: turn on Instagram's **AI label** and add "Scenes reimagined with AI" to the caption.
 
 ---
@@ -144,6 +146,13 @@ Avoid: text, subtitles, logos, visible faces, modern clothing, fast movement.
 - **Outcome (Kate, 22 Nov):** v4 failed too. No version gave a usable result, with many mistakes in every round, so **the reel was never posted**. A day of credits was lost.
 - **Why it failed:** the whole story depended on Flow copying **one unusual real object exactly** (a hollow granite pillar with a door). Flow can't do that reliably, even with reference photos and a master frame. The king's door reel worked because it relied on atmosphere and people from behind, and only one clip had to look like the real place.
 - **Lesson:** choose hidden stories that Flow can tell with **atmosphere, animals, objects and people seen from behind**. Keep the real place to one clip at most, or film it yourself. **Two-round rule:** if a clip fails twice, use the spare or drop the clip, and if the key visual fails twice, change the topic.
+
+### 2026-11-23 · Reel "In 1926, 200 newspapers reported the death of this pub's parrot" (hidden story, Ye Olde Cheshire Cheese)
+- **Prompts:** `content-plan/prompts/2026-11-23-parrot.md` (rules 1–15 applied: bright first frame, parrot moving at 0s, people from behind, master frame as ingredient).
+- **Result (24 Nov):** best hold so far: **skip rate 42.3%** (57% king's door, 84.9% collage), **8s average watch**, ~25% stayed to the end. The animal + firelight approach works in Flow.
+- **What went wrong:** the hook text sat on top of the two bright pendant lamps and was hard to read. 0 sends, 0 saves: the visuals are no longer the problem, the topic needs a stronger reason to send.
+- **Lesson:** keep hook text on a calm, darker area. Clip quality is now good enough: spend the effort on the topic's "send" twist.
+- Kate: tell me how each clip did, and I'll add the details.
 
 ### New entry template
 ```
