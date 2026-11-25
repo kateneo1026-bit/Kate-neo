@@ -182,6 +182,7 @@ Avoid: text, subtitles, logos, visible faces, modern clothing, fast movement.
 - First prompt: v1 in `content-plan/daily/2026-11-25-improved.md` ("orange glow from beyond the walls… no visible flames on the building").
 - What went wrong (Kate's screenshot): the tracery, embers and glow on the stone were good, but Flow put a bright, blown-out flame on the stone sill at the bottom left. It looks like a campfire on stone, not a city on fire.
 - Correction: quick fix = zoom in CapCut on the upper window (tracery + embers + smoke). Re-run (v2) = `the fire itself is out of frame, below and behind the wall; only its orange light on the stone` + Avoid `visible flames, fire on the ground, bonfire, campfire`.
+- Result v2 ✅ (12:19): fire out of frame, glow on the stone, smoke and embers through the window, a gable with a cross against a dark sky. Only a tiny flame on the right sill and one at the bottom edge: zoom ~115% and move the frame up in CapCut. Used.
 - Lesson: "no visible flames on the building" is not enough: Flow still draws a fire somewhere. Say where the fire is (out of frame) and ban flames in the Avoid line.
 
 ### New entry template
