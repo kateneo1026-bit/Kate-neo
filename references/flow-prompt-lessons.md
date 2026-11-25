@@ -177,6 +177,13 @@ Avoid: text, subtitles, logos, visible faces, modern clothing, fast movement.
 - **What worked:** golden-light bees moving at 0s, a famous place in the hook, a fire shown only as glow and smoke.
 - **Housekeeping:** the 23 Nov realism rules (`references/realism-check.md`, rules 2, 3, 7, 8, 10, 17–21) were on an unmerged branch. Now merged here. Use them from today.
 
+### 2026-11-25 · Reel "A London church with trees inside" (hidden story, St Dunstan-in-the-East)
+**Clip 2: 1941 glow and smoke**
+- First prompt: v1 in `content-plan/daily/2026-11-25-improved.md` ("orange glow from beyond the walls… no visible flames on the building").
+- What went wrong (Kate's screenshot): the tracery, embers and glow on the stone were good, but Flow put a bright, blown-out flame on the stone sill at the bottom left. It looks like a campfire on stone, not a city on fire.
+- Correction: quick fix = zoom in CapCut on the upper window (tracery + embers + smoke). Re-run (v2) = `the fire itself is out of frame, below and behind the wall; only its orange light on the stone` + Avoid `visible flames, fire on the ground, bonfire, campfire`.
+- Lesson: "no visible flames on the building" is not enough: Flow still draws a fire somewhere. Say where the fire is (out of frame) and ban flames in the Avoid line.
+
 ### New entry template
 ```
 ### YYYY-MM-DD · Reel "[hook]" ([lifestyle / hidden story])
