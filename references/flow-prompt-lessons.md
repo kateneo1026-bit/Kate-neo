@@ -19,7 +19,7 @@ This notebook records what I've learnt making Kate's reels with Google Flow (Veo
 7. **Real places: describe the real details** from reference photos (look at them **before** the first prompt, never describe from memory) (wall colour, objects, lamps, signs). A generic prompt gives a generic place.
    **Every clip of a real place:** write a **Real-photo check** table first (real detail → what the prompt says), put the details in the prompt **and** the wrong look in the Avoid line. No real photos seen yet → ask Kate for 2–3 photos first.
    **Real colours beat the default palette:** if the real place is dark, keep it dark and make it bright with **light** (windows, lamps, fire, sun), never by changing the materials.
-8. **People:** `framed from the shoulders down` or `seen only from behind`. Faces are where AI fails most, and they break the "hidden" mood. If people stand next to the subject, **put the camera behind them** (`the camera stands behind them… heads stay turned away… no face and no profile` + Avoid `profiles, side faces`). Small falling objects: `lands flat on its side`.
+8. **Kate's account is faceless: no people as the subject.** No woman or "Kate" figure in a scene, **not even seen from behind** (21 Nov: the woman on the bench with a cup was rejected; 25 Nov: the same mistake, caught by Kate). Let places and objects tell the story: an empty bench, an open door, steam from a cup left on a bench. Historical figures **seen only from behind** are OK only in a "past" scene the story needs (19 Nov, the couple on the stairs), with the camera behind them (`heads stay turned away… no face and no profile`). Add `people, a person sitting, faces, silhouettes, hands` to the Avoid line. Small falling objects: `lands flat on its side`.
 9. **Audio line:** describe 2–3 natural sounds, then end with `No music, no speech.`
 10. **Avoid line:** `film grain, dust, specks, flickering, text, numbers, timestamps, watermarks, logos, faces, extra fingers, distorted hands, fast camera movement, dark underexposed image, crushed blacks, orange-and-teal colour grade, oversaturated colours, cyan or bright blue sky, blown-out lamp, glossy wet-looking surfaces, heavy bokeh, HDR look`.
 11. **The same object in every clip: text alone is not enough.** Pause on the best clip, save that frame as an image (Flow's image ➕ button) and use it as an **ingredient or start frame** for every other clip, with the words `exactly the same pillar as in the reference image`.
@@ -178,6 +178,10 @@ Avoid: text, subtitles, logos, visible faces, modern clothing, fast movement.
 - **Housekeeping:** the 23 Nov realism rules (`references/realism-check.md`, rules 2, 3, 7, 8, 10, 17–21) were on an unmerged branch. Now merged here. Use them from today.
 
 ### 2026-11-25 · Reel "A London church with trees inside" (hidden story, St Dunstan-in-the-East)
+**Clip 4: today, a quiet bench**
+- What went wrong: I wrote "a woman in a camel coat, seen from behind, on the bench". The account is faceless (rule 8): the 21 Nov rule was on an unmerged branch and missing here.
+- Correction: an empty bench with a steaming paper cup and a folded scarf left on it, the fountain trickling. `people, silhouettes, hands` in Avoid. Rule 8 restored.
+
 **Clip 2: 1941 glow and smoke**
 - First prompt: v1 in `content-plan/daily/2026-11-25-improved.md` ("orange glow from beyond the walls… no visible flames on the building").
 - What went wrong (Kate's screenshot): the tracery, embers and glow on the stone were good, but Flow put a bright, blown-out flame on the stone sill at the bottom left. It looks like a campfire on stone, not a city on fire.
