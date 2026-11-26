@@ -31,6 +31,8 @@ This notebook records what I've learnt making Kate's reels with Google Flow (Veo
 17. **Bright first (23 Nov).** Daylight is the default light, with a `pale overcast grey-white sky` (or golden hour). Evenings and pubs: `well lit by two or three warm lamps and the fire, shadows keep detail`. Lamps `glow softly, not blown out`. Never `dark`, `dim`, `moody`, `deep shadows`, `2700K`.
 18. **A full still life, not an empty room.** Hero object + 3–5 everyday props at different heights + one natural detail (dried flowers, leaves, berries) + one fabric (creased linen, chunky knit). Matte, dry textures.
 19. **One real-speed movement** is the hook: pouring coffee, steam, a candle flame, rain trickling, leaves moving, a bird turning its head.
+20. **Frame 1 must prove the hook (26 Nov).** If the hook says "trees *inside* a church", frame 1 must show *inside*: looking up from the nave, open sky where the roof was, branches crossing the empty window arches. A tree in front of a ruin looks like any churchyard (St Dunstan: skip rate 68%, half gone by 2s). Ask: *"With the sound off and no text, does frame 1 already look impossible?"*
+21. **Hook text never on sky or a window (26 Nov).** Bright sky is as bad as bright lamps. Put the words on a calm, darker area (stone wall, ground, dark wood) **or** use Instagram/CapCut text with a soft dark background band. Check frame 1 on the phone at arm's length before posting.
 20. **A place cue** in the background (slate roofs and chimney pots, a lake, a lane, a church tower), softly out of focus but recognisable.
 21. **Fine rain:** `fine small raindrops and a few thin trickles on the glass, the view outside in focus, no reflections in the glass`.
 
@@ -188,6 +190,11 @@ Avoid: text, subtitles, logos, visible faces, modern clothing, fast movement.
 - Correction: quick fix = zoom in CapCut on the upper window (tracery + embers + smoke). Re-run (v2) = `the fire itself is out of frame, below and behind the wall; only its orange light on the stone` + Avoid `visible flames, fire on the ground, bonfire, campfire`.
 - Result v2 ✅ (12:19): fire out of frame, glow on the stone, smoke and embers through the window, a gable with a cross against a dark sky. Only a tiny flame on the right sill and one at the bottom edge: zoom ~115% and move the frame up in CapCut. Used.
 - Lesson: "no visible flames on the building" is not enough: Flow still draws a fire somewhere. Say where the fire is (out of frame) and ban flames in the Avoid line.
+
+**Results (26 Nov, ~18h)**
+- 46 views, 13s average watch (**best ever**), save 1, comment 1, 0 sends, 0 follows. **Skip rate 68.2%** (bees 43%, parrot 42%): ~50% gone by 2s, ~70% by 4s, then ~20% stayed flat to the end.
+- What went wrong: the story held whoever got past second 2, but the first frame didn't: the hook text sat on the bright window and sky, and the frame looked like a tree in front of a ruin, not a tree *inside* a church. Also the test group had moved after the bees reel (see `reviews/diagnosis-2026-11-26.md`).
+- Lesson: new rules 20 (frame 1 proves the hook) and 21 (no hook text on sky).
 
 ### New entry template
 ```
