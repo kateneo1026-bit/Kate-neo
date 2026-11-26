@@ -30,6 +30,8 @@ The account is small, so compare posts with each other, never with big accounts.
 
 **The ~120 wall check (always do this):** Instagram shows each reel to a test group of ~120 non-followers in the first 1–2 hours and only pushes further if people **send, save or follow**. If views stopped at ~120 and sends + saves = 0, say the reel *stalled at the test group*, and look first at the reel's "send reason", not the visuals. Use `avg_watch_s` and `skip_rate` to judge the hook (skip rate falling = hook improving). Ignore the 1 repost almost every reel gets: it's probably the same person each time. Background: `reviews/diagnosis-2026-11-24.md`.
 
+**The country check (always do this, since 26 Nov):** the target is **UK + Ireland + Europe**. Note each reel's top 3 countries in `notes`. If under 70% of viewers are UK/Ireland/Europe, say the topic was *too global* (the bees reel went 54% India; the next reel stalled at 46 views because the test group moved). High views with a like rate under 1% and 0 sends = empty global reach, not success. Every new topic must pass the **go-there test**: *could someone in the UK go there this month?* and carry local signals (UK location tag, Tube station / "free" / Eurostar on screen, UK hashtags, a save-or-send-for-a-plan CTA). Remind Kate: VPN off for Instagram, Meta AI translations off. Background: `reviews/diagnosis-2026-11-26.md`.
+
 If Kate says something feels wrong, also check: the share of views from followers, Story viewers vs follower count, profile taps, the bio and name field, the audience (age, gender, country) vs the plan's target, and anything odd in the screenshots (typos in stickers, VPN, posting gaps).
 
 ## Step 3: Improve today's content
