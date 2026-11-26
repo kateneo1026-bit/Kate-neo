@@ -2,6 +2,7 @@
 
 This notebook records what I've learnt making Kate's reels with Google Flow (Veo).
 **Read it before writing any Flow prompt, and add a Log entry after every reel.**
+**Also read `references/realism-check.md` (23 Nov): why our clips look AI, and the realism block to paste into every prompt.**
 
 ---
 
@@ -9,27 +10,38 @@ This notebook records what I've learnt making Kate's reels with Google Flow (Veo
 
 ### Always include
 1. **"Vertical 9:16"** at the start of the prompt, and set 9:16 in Flow's settings.
-2. **The look:** `ultra-sharp, clean modern digital cinema look, photorealistic, high detail`.
-3. **The camera:** lens + aperture + one slow movement (`slow smooth push-in`, `slow gimbal walk forward`, `static on a tripod`).
+2. **The look (updated 23 Nov):** the realism block from `references/realism-check.md`: `realistic lifestyle video, looks filmed on a good phone camera, photorealistic, sharp focus on the subject, true-to-life colours, gentle warm white balance, soft natural contrast, well exposed with open shadows and visible detail, matte natural textures`. The old `ultra-sharp … digital cinema look` + `cinematic` gave dark, orange-and-teal, glossy clips.
+3. **The camera:** lens + aperture + almost no movement. Default `locked-off camera` or `barely perceptible slow push-in`, 35–50mm at f/4 so the background stays recognisable. Let the subject move, not the camera.
 4. **One action per clip, at natural speed** (keep only the *camera* slow), and **movement from the very first frame** (steam already rising, door already open, phone already ringing). Viewers decide in under 2 seconds.
    For events, give the **order and timing**: `already ringing at 0s; within the first 2 seconds the hand lifts the receiver; the ringing stops`.
 5. **The same "set" description, word for word, in every clip of a reel** (objects, colours, light, sleeve/hands), so the clips look like one place.
 6. **A colour palette line** (e.g. `honey gold, crimson, warm amber against muted navy dusk`).
 7. **Real places: describe the real details** from reference photos (look at them **before** the first prompt, never describe from memory) (wall colour, objects, lamps, signs). A generic prompt gives a generic place.
-8. **People:** `framed from the shoulders down` or `seen only from behind`. Faces are where AI fails most, and they break the "hidden" mood.
+   **Every clip of a real place:** write a **Real-photo check** table first (real detail → what the prompt says), put the details in the prompt **and** the wrong look in the Avoid line. No real photos seen yet → ask Kate for 2–3 photos first.
+   **Real colours beat the default palette:** if the real place is dark, keep it dark and make it bright with **light** (windows, lamps, fire, sun), never by changing the materials.
+8. **Kate's account is faceless: no people as the subject.** No woman or "Kate" figure in a scene, **not even seen from behind** (21 Nov: the woman on the bench with a cup was rejected; 25 Nov: the same mistake, caught by Kate). Let places and objects tell the story: an empty bench, an open door, steam from a cup left on a bench. Historical figures **seen only from behind** are OK only in a "past" scene the story needs (19 Nov, the couple on the stairs), with the camera behind them (`heads stay turned away… no face and no profile`). Add `people, a person sitting, faces, silhouettes, hands` to the Avoid line. Small falling objects: `lands flat on its side`.
 9. **Audio line:** describe 2–3 natural sounds, then end with `No music, no speech.`
-10. **Avoid line:** `film grain, dust, specks, flickering, text, numbers, timestamps, watermarks, logos, faces, extra fingers, distorted hands, fast camera movement`.
+10. **Avoid line:** `film grain, dust, specks, flickering, text, numbers, timestamps, watermarks, logos, faces, extra fingers, distorted hands, fast camera movement, dark underexposed image, crushed blacks, orange-and-teal colour grade, oversaturated colours, cyan or bright blue sky, blown-out lamp, glossy wet-looking surfaces, heavy bokeh, HDR look`.
 11. **The same object in every clip: text alone is not enough.** Pause on the best clip, save that frame as an image (Flow's image ➕ button) and use it as an **ingredient or start frame** for every other clip, with the words `exactly the same pillar as in the reference image`.
 12. **Name the exact period object** (e.g. `1920s black candlestick telephone: tall upright stem, mouthpiece on top, separate earpiece hanging on a hook at the side`). Otherwise the AI picks a generic one.
 13. **Vary the light, and make the hook bright.** Not every reel at night: dark openings lose viewers. Golden hour (low warm winter sun) is bright *and* cosy.
 14. **Pick Flow-friendly topics.** The story must work without an exact copy of a strange real object (police box, specific statue, odd building). At most one clip has to look like the real place. Stories carried by people from behind, animals, candlelight or objects work best. (20 Nov police box: 4 rounds, never usable.)
 15. **Two-round rule.** A clip that fails twice → use the spare or drop it. The key visual fails twice → change the topic that day.
 16. **Famous buildings: one angle, bottom to top.** Pick the single view in a real photo (e.g. the west front, straight on), describe it from the doors up, and list what is *not* there in the Avoid line (`spire in front of the towers, dome`). Never mix parts seen from different sides. No small animals in landmark shots.
+17. **Bright first (23 Nov).** Daylight is the default light, with a `pale overcast grey-white sky` (or golden hour). Evenings and pubs: `well lit by two or three warm lamps and the fire, shadows keep detail`. Lamps `glow softly, not blown out`. Never `dark`, `dim`, `moody`, `deep shadows`, `2700K`.
+18. **A full still life, not an empty room.** Hero object + 3–5 everyday props at different heights + one natural detail (dried flowers, leaves, berries) + one fabric (creased linen, chunky knit). Matte, dry textures.
+19. **One real-speed movement** is the hook: pouring coffee, steam, a candle flame, rain trickling, leaves moving, a bird turning its head.
+20. **Frame 1 must prove the hook (26 Nov).** If the hook says "trees *inside* a church", frame 1 must show *inside*: looking up from the nave, open sky where the roof was, branches crossing the empty window arches. A tree in front of a ruin looks like any churchyard (St Dunstan: skip rate 68%, half gone by 2s). Ask: *"With the sound off and no text, does frame 1 already look impossible?"*
+21. **Hook text never on sky or a window (26 Nov).** Bright sky is as bad as bright lamps. Put the words on a calm, darker area (stone wall, ground, dark wood) **or** use Instagram/CapCut text with a soft dark background band. Check frame 1 on the phone at arm's length before posting.
+20. **A place cue** in the background (slate roofs and chimney pots, a lake, a lane, a church tower), softly out of focus but recognisable.
+21. **Fine rain:** `fine small raindrops and a few thin trickles on the glass, the view outside in focus, no reflections in the glass`.
 
 ### Never
 - **"35mm film" or "grain"** in the prompt. It adds dust, black specks and fake date stamps (e.g. "9/13").
 - **Lettering or signs you didn't spell out.** AI writes nonsense ("AULMS", "R:RZLPER"). Either ask for `no lettering` and add the text in CapCut, or spell out the word: `the single word "Rules"… Exact spelling: R-u-l-e-s` + `Avoid: misspelled words, extra letters, any other text`. Re-run once, then fall back to CapCut.
-- **"Blue hour" on its own.** It gives a bright cyan sky. Write `muted deep navy-blue sky, just after sunset`.
+- **"Blue hour", "dusk", "navy sky".** They give a bright cyan sky. Use a pale overcast grey-white sky or golden hour instead.
+- **"Cinematic", "moody", "dramatic", "dark", "2700K", "polished/varnished wood".** They give the dark, orange, glossy AI look (23 Nov comparison).
+- **Odd props** ("wrapped in paper with string", parcels). Use ordinary objects people own.
 - **Vague wall art** ("framed cartoons", "pictures"). It gives childish cartoons. Write `black-and-white vintage sketches and gilt-framed oil portraits`.
 - **Brand names or logos on products.** Write `no logos or brand names`.
 - **Screenshots or clips from other creators** as Flow ingredients or in the reel. That's copyright, even with the watermark removed.
@@ -161,6 +173,28 @@ Avoid: text, subtitles, logos, visible faces, modern clothing, fast movement.
 - **What went wrong (Kate's screenshot):** Flow mixed the views: a tall spire stood *in front of* the towers, a dome appeared in the middle, the towers were thin and pointed, and the bee came out huge and blurry.
 - **Correction (v2):** one simple, straight-on view (the west front from the square), described from Kate's real photo, top to bottom: three portals → row of king statues → rose window → open arched gallery → two identical flat-topped square towers, no spires. Avoid line: `spire in front of the towers, dome, cupola, pointed tower tops`. No bee in that clip. Spare: a closer tilt from the kings to the rose window.
 - **Lesson (new rule 16):** for a famous building, choose **one camera angle** that matches a real photo, describe it **from bottom to top**, and say what is **not** there (no spire, no dome). Don't mix parts that are only visible from different sides. Keep small animals out of landmark shots (they come out giant).
+
+### 2026-11-25 · Bees reel results + realism rules merged
+- **Result (25 Nov, ~15h):** 476 views, **11s average watch** (best ever, 24s reel), skip rate 43% ("lower" than typical). Broke the ~120 wall: Reels tab 74%, **Explore 26%** (first time). 0 sends, 0 saves, 0 follows.
+- **What worked:** golden-light bees moving at 0s, a famous place in the hook, a fire shown only as glow and smoke.
+- **Housekeeping:** the 23 Nov realism rules (`references/realism-check.md`, rules 2, 3, 7, 8, 10, 17–21) were on an unmerged branch. Now merged here. Use them from today.
+
+### 2026-11-25 · Reel "A London church with trees inside" (hidden story, St Dunstan-in-the-East)
+**Clip 4: today, a quiet bench**
+- What went wrong: I wrote "a woman in a camel coat, seen from behind, on the bench". The account is faceless (rule 8): the 21 Nov rule was on an unmerged branch and missing here.
+- Correction: an empty bench with a steaming paper cup and a folded scarf left on it, the fountain trickling. `people, silhouettes, hands` in Avoid. Rule 8 restored.
+
+**Clip 2: 1941 glow and smoke**
+- First prompt: v1 in `content-plan/daily/2026-11-25-improved.md` ("orange glow from beyond the walls… no visible flames on the building").
+- What went wrong (Kate's screenshot): the tracery, embers and glow on the stone were good, but Flow put a bright, blown-out flame on the stone sill at the bottom left. It looks like a campfire on stone, not a city on fire.
+- Correction: quick fix = zoom in CapCut on the upper window (tracery + embers + smoke). Re-run (v2) = `the fire itself is out of frame, below and behind the wall; only its orange light on the stone` + Avoid `visible flames, fire on the ground, bonfire, campfire`.
+- Result v2 ✅ (12:19): fire out of frame, glow on the stone, smoke and embers through the window, a gable with a cross against a dark sky. Only a tiny flame on the right sill and one at the bottom edge: zoom ~115% and move the frame up in CapCut. Used.
+- Lesson: "no visible flames on the building" is not enough: Flow still draws a fire somewhere. Say where the fire is (out of frame) and ban flames in the Avoid line.
+
+**Results (26 Nov, ~18h)**
+- 46 views, 13s average watch (**best ever**), save 1, comment 1, 0 sends, 0 follows. **Skip rate 68.2%** (bees 43%, parrot 42%): ~50% gone by 2s, ~70% by 4s, then ~20% stayed flat to the end.
+- What went wrong: the story held whoever got past second 2, but the first frame didn't: the hook text sat on the bright window and sky, and the frame looked like a tree in front of a ruin, not a tree *inside* a church. Also the test group had moved after the bees reel (see `reviews/diagnosis-2026-11-26.md`).
+- Lesson: new rules 20 (frame 1 proves the hook) and 21 (no hook text on sky).
 
 ### New entry template
 ```
