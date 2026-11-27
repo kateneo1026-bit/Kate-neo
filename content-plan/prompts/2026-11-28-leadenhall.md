@@ -155,3 +155,16 @@ Vertical 9:16 realistic video, looks filmed on a good phone camera, photorealist
 Audio: muffled footsteps on stairs, a faint hum of the city above, a soft click of a light switch. No music, no speech.
 Avoid: people, faces, hands, reflections of people, information panels with text, ruined castle, cave, dungeon, torches, candles, marble, statues, film grain, dust, specks, flickering, text, letters, signs, numbers, timestamps, logos, watermarks, fast camera movement, dark underexposed image, crushed blacks, orange-and-teal colour grade, oversaturated colours, blown-out lamp, glossy wet-looking surfaces, heavy bokeh, HDR look, plastic textures.
 ```
+
+---
+
+## ✅ FINAL voiceover · ElevenLabs (27 Nov · reel cut 24s = 4 × 6s)
+Kate's CapCut order: 1 lane (0–6s) · 2 Roman hall (6–12s) · 3 Roman pier (12–18s) · 4 dome with lanterns (18–24s).
+Voice and settings: same as the bees reel (calm British woman · Multilingual v2 · Stability 55% · Similarity 75% · Style 15% · Speed 0.90).
+```
+This is London's real Diagon Alley. <break time="2.0s" />
+Long before wizards… the biggest Roman building north of the Alps stood here. <break time="1.0s" />
+And one piece of it still survives… <break time="0.4s" /> in a barber's basement. <break time="1.5s" />
+Leadenhall Market. Free, by Bank station. <break time="0.5s" /> Send this to a Harry Potter fan.
+```
+CapCut: split the audio at the pauses and start each line at 0s · 6s · 12s · 18s.
