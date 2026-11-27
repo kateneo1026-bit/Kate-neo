@@ -168,3 +168,12 @@ And one piece of it still survives… <break time="0.4s" /> in a barber's baseme
 Leadenhall Market. Free, by Bank station. <break time="0.5s" /> Send this to a Harry Potter fan.
 ```
 CapCut: split the audio at the pauses and start each line at 0s · 6s · 12s · 18s.
+
+### ✅ Voiceover v2 · 24s (the first version ran to 26s)
+```
+This is London's real Diagon Alley. <break time="1.5s" />
+Long before wizards… this was Roman London's biggest building. <break time="1.0s" />
+One piece still survives… <break time="0.3s" /> in a barber's basement. <break time="1.2s" />
+Leadenhall Market. Free, by Bank station. <break time="0.3s" /> Send this to a Harry Potter fan.
+```
+Speed 0.95. Start lines at 0s · 6s · 12s · 18s.
