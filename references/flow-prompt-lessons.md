@@ -196,6 +196,12 @@ Avoid: text, subtitles, logos, visible faces, modern clothing, fast movement.
 - What went wrong: the story held whoever got past second 2, but the first frame didn't: the hook text sat on the bright window and sky, and the frame looked like a tree in front of a ruin, not a tree *inside* a church. Also the test group had moved after the bees reel (see `reviews/diagnosis-2026-11-26.md`).
 - Lesson: new rules 20 (frame 1 proves the hook) and 21 (no hook text on sky).
 
+### 2026-11-27 · Reel "London's real Diagon Alley hides a Roman ruin in a barber's basement" (prep, Leadenhall Market)
+- **First prompt (clip 1):** written from text sources only: "arched roof… ironwork painted maroon and cream with dark green details", no dome, no lanterns.
+- **What went wrong (before any credits were spent):** Kate's 2 real photos showed it was wrong: the lanes are **barrel vaults** with thin cream ribs, the ironwork isn't green (the green is on shopfronts), and the best view is from **under the octagonal glass dome** (maroon ribs, blue-grey panels, 3 amber lanterns) with **deep-red fluted columns**.
+- **Correction:** clip 1 and its spare rewritten from the photos (`content-plan/prompts/2026-11-28-leadenhall.md`); wrong looks added to the Avoid line (pointed Gothic arches, green ironwork, lettering on the frieze).
+- **Lesson:** text descriptions of a place are not enough (rule 7 confirmed). Ask Kate for 2 photos **before** writing the prompt, and use other creators' photos only to describe the place in words, never as an ingredient.
+
 ### New entry template
 ```
 ### YYYY-MM-DD · Reel "[hook]" ([lifestyle / hidden story])

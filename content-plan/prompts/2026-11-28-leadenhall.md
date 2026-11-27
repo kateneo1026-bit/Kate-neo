@@ -12,16 +12,22 @@ Settings for every clip: Text to Video · 9:16 · Quality · 1 output. Trim to ~
 ## Real-photo check (rule 7)
 I couldn't open photo pages from here, so this table comes from written descriptions (Historic England's listing, City of London guides, Look Up London, On London, Free Tours by Foot). **Before your first Flow run, look at 2–3 photos of each place** (search the words in the right-hand column) and tell me anything that doesn't match. I'll fix it before you spend credits.
 
-### Leadenhall Market (clips 1 and 4, Plan B)
-| Real detail (source) | In the prompt | Photo search to confirm |
-|---|---|---|
-| High arched **glass roof on painted wrought-iron** arches | `a tall arched roof of glass panes on slender wrought-iron arches` | "Leadenhall Market roof" |
-| Ironwork painted **green, maroon and cream** (restored 1991) | `painted deep maroon and cream with dark green details` | same |
-| An **octagonal crossing with a painted dome** where the lanes meet | clip 1 spare / the Stories clip | "Leadenhall Market dome" |
-| **Cobbled floors** | `pale grey cobbled stone floor` | – |
-| Colourful Victorian **shopfronts** under the roof | `painted wooden shopfronts with closed shutters, no readable names` | "Leadenhall Market shopfronts" |
-| **Gracechurch Street entrance:** tall gabled red-brick and Portland-stone pavilions with turrets, a wide entrance with windows over it | only if you film it; too complex for Flow (rule 14) | "Leadenhall Market Gracechurch Street entrance" |
-| Hanging lanterns | **not confirmed**: left out until you see them in a photo | – |
+### Leadenhall Market (clips 1 and 4, Plan B) · ✅ checked against Kate's 2 photos (27 Nov, 19:10)
+The photos are a reel by another creator ("It's So London"). We use them **only as a reference to describe the place in words**, never as a Flow ingredient (copyright).
+
+| Real detail (from the photos) | In the prompt |
+|---|---|
+| **Best view:** standing under the dome at the crossing, looking up and down one long lane | clip 1 = this view (and it's where you film) |
+| **Octagonal glass dome** with radiating dark maroon-brown ribs, pale blue-grey glass panels, a small octagonal lantern at the top | `octagonal glass dome… radiating dark maroon ribs… pale blue-grey glass panels… small octagonal lantern at its peak` |
+| Under the dome: a **cream octagonal frieze** with small **round oculus windows** | `a cream frieze with small round windows`; the gold lettering on it is in the Avoid line |
+| **Three amber glass lanterns** hang together from the centre of the dome (confirmed) | `a cluster of three amber glass lanterns glowing softly` |
+| The lanes: **barrel-vaulted glass roofs** with many thin cream ribs, very bright | `long barrel-vaulted glass roofs with many thin cream ribs` |
+| **Tall fluted columns painted deep red** with cream and gold capitals, small carved winged dragons on top | `tall fluted deep-red columns with cream and gold capitals` (dragons left out: too detailed, rule 14) |
+| Upper floor: **pale cream walls**, small-paned sash windows with maroon frames | `pale cream upper walls with small-paned sash windows framed in maroon` |
+| Ground floor: shopfronts in **deep red, maroon and dark green** with gold fascias, warm light inside | `deep red and dark green Victorian shopfronts with plain gold fascias, warm light inside, no readable names` |
+| Wide floor of **grey-brown cobbles (setts)** | `a wide floor of grey-brown granite cobbles` |
+| At the far end of the lane: open daylight and a pale modern building | `the far end opens to soft daylight` |
+| ❌ Not as I first wrote: the roof ironwork isn't green (the green is on some shopfronts), and the lanes are *barrel vaults*, not pointed arches | fixed |
 
 ### The Roman pier (clip 3b)
 | Real detail (source) | In the prompt | Photo search to confirm |
@@ -47,19 +53,19 @@ film grain, dust, specks, flickering, text, letters, signs, numbers, timestamps,
 ---
 
 ## Clip 1 · the hook: the market (🎬 your phone · Plan B Flow)
-**Phone, Sat 8:00–9:30:** walk slowly in from the Gracechurch Street side, phone tilted up ~30° so the roof **and** the lane are in frame at 0s. 1× · 4K 30fps · long-press to lock the exposure on the roof · walk for 10s. No people in frame (wait for a gap).
+**Phone, Sat 8:00–9:30:** stand **under the dome at the crossing** (the view in your photos). Start tilted up at the dome and the three lanterns, then tilt slowly down to the long lane and walk forward. 0.5× (wide) · 4K 30fps · long-press to lock the exposure on the shopfronts so the glass doesn't turn white · 10s. No people in frame (wait for a gap).
 
 **Plan B · Flow** (rule 20: with the sound off, frame 1 must already look like a film set)
 ```
-Vertical 9:16 realistic video, looks filmed on a good phone camera, photorealistic, sharp focus on the subject, true-to-life colours, gentle warm white balance, soft natural contrast, well exposed with open shadows and visible detail, matte natural textures. 24mm lens at f/5.6, slow steady walk forward from the very first frame, camera tilted slightly up so the roof fills the top half. An empty covered Victorian market lane in the City of London on an early winter morning: a tall arched roof of glass panes on slender wrought-iron arches, the ironwork painted deep maroon and cream with dark green details and small decorative leaf patterns; below, on both sides, painted wooden Victorian shopfronts with closed shutters; a pale grey cobbled stone floor. Soft overcast daylight comes through the glass roof, bright and airy, a pale grey-white sky above the glass. At 0s a pigeon is already flying across under the roof. The lower third of the frame is calm: plain cobbles. Colour palette: deep maroon, cream, dark green, pale stone grey. Quiet, magical, film-set mood.
+Vertical 9:16 realistic video, looks filmed on a good phone camera, photorealistic, sharp focus on the subject, true-to-life colours, gentle warm white balance, soft natural contrast, well exposed with open shadows and visible detail, matte natural textures. 16mm wide lens at f/5.6, the camera stands under the centre of a dome and slowly tilts down and moves forward from the very first frame. An empty Victorian covered market in the City of London on an early winter morning. Above: an octagonal glass dome with radiating dark maroon ribs and pale blue-grey glass panels, a small octagonal lantern at its peak, resting on a cream frieze with small round windows; a cluster of three amber glass lanterns hangs from the centre and glows softly. Ahead: one long straight lane under a barrel-vaulted glass roof with many thin cream ribs, very bright; the far end opens to soft daylight. On both sides: tall fluted deep-red columns with cream and gold capitals; pale cream upper walls with small-paned sash windows framed in maroon; at street level, deep red and dark green Victorian shopfronts with plain gold fascias and warm light inside. A wide floor of grey-brown granite cobbles. Soft overcast daylight through the glass, bright and airy, a pale grey-white sky. At 0s a pigeon is already flying across under the dome. The lower third of the frame is calm: plain cobbles. Colour palette: deep red, maroon, cream, gold, pale blue-grey glass, grey-brown cobbles. Quiet, magical, film-set mood.
 Audio: echoing footsteps on cobbles, pigeons' wings, a distant church bell. No music, no speech.
-Avoid: people, faces, silhouettes, readable signs, shop names, glass shopping-mall roof, modern steel, Christmas lights, gold-covered ironwork, red brick inside the lane, film grain, dust, specks, flickering, text, letters, signs, numbers, timestamps, logos, watermarks, fast camera movement, dark underexposed image, crushed blacks, orange-and-teal colour grade, oversaturated colours, cyan or bright blue sky, glossy wet-looking surfaces, heavy bokeh, HDR look, plastic textures.
+Avoid: people, faces, silhouettes, readable signs, shop names, lettering on the frieze, gold lettering, pointed Gothic arches, green ironwork, modern shopping mall, steel beams, Christmas lights, carved dragons, film grain, dust, specks, flickering, text, letters, signs, numbers, timestamps, logos, watermarks, fast camera movement, dark underexposed image, crushed blacks, orange-and-teal colour grade, oversaturated colours, cyan or bright blue sky, blown-out glass roof, glossy wet-looking surfaces, heavy bokeh, HDR look, plastic textures.
 ```
 **Spare (rule 15): looking straight up at the crossing**
 ```
-Vertical 9:16 realistic video, looks filmed on a good phone camera, photorealistic, sharp focus, true-to-life colours, gentle warm white balance, well exposed with open shadows and visible detail, matte natural textures. 24mm lens at f/5.6, locked-off camera looking straight up. Where four covered Victorian market lanes meet: an octagonal crossing with a painted dome, surrounded by arched glass roofs on slender wrought-iron arches painted deep maroon and cream with dark green details. Soft overcast daylight through the glass, a pale grey-white sky. At 0s two pigeons are already flying across under the dome. Colour palette: deep maroon, cream, dark green, pale grey. Calm, magical mood.
+Vertical 9:16 realistic video, looks filmed on a good phone camera, photorealistic, sharp focus, true-to-life colours, gentle warm white balance, well exposed with open shadows and visible detail, matte natural textures. 24mm lens at f/5.6, locked-off camera looking straight up. The centre of a Victorian covered market: an octagonal glass dome with radiating dark maroon ribs and pale blue-grey glass panels, a small octagonal lantern at its peak, resting on a cream frieze with small round windows; around it, the openings of barrel-vaulted glass roofs with many thin cream ribs. A cluster of three amber glass lanterns hangs from the centre of the dome and glows softly. Soft overcast daylight through the glass, a pale grey-white sky. At 0s two pigeons are already flying across under the dome, and the lanterns sway very slightly. Colour palette: maroon, cream, pale blue-grey glass, amber. Calm, magical mood.
 Audio: pigeons' wings, a distant church bell. No music, no speech.
-Avoid: people, faces, text, letters, signs, logos, watermarks, film grain, dust, specks, fast camera movement, dark underexposed image, oversaturated colours, cyan or bright blue sky, HDR look.
+Avoid: people, faces, lettering on the frieze, text, letters, signs, logos, watermarks, film grain, dust, specks, fast camera movement, dark underexposed image, oversaturated colours, cyan or bright blue sky, blown-out glass, HDR look.
 ```
 **Text:** a small cream serif title on a **soft dark band**, lower-middle (on the cobbles, never on the glass, rule 21): *London's real Diagon Alley* · smaller line: *hides a Roman ruin in a barber's basement*
 
