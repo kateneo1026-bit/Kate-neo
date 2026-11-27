@@ -66,3 +66,6 @@ The examples are templates. Check every fact before you post.
 
 ---
 **Make your own:** strange detail + specific place + a reason to keep watching. Keep it to 12 words or fewer.
+
+## Pop culture + a real UK place (added 27 Nov, from the big travel reels)
+34. **"London's real [famous film or book place] [impossible fact]."** e.g. "London's real Diagon Alley hides a Roman ruin in a barber's basement." The fiction gives people the reason to send it; the real place passes the go-there test. See `reviews/competitors-2026-11-27.md`.
