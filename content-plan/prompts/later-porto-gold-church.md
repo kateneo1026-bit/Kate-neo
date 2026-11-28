@@ -1,0 +1,179 @@
+# LATER (moved from Sun 29 Nov): Porto gold church · Hidden Europe
+
+| | Before | After |
+|---|---|---|
+| Format | Rest day: Stories only | 🎬 **Reel** (hidden story) + 3 Stories, as Kate asked |
+| Topic | – | **The gold church of São Francisco, Porto** · Hidden Europe No. 2 |
+| Hook text | – | **"Poor monks built this?"** (4 words, new hook-text rule) |
+| Time | – | **19:30 UK** |
+
+**Why:**
+- Kate's new rule (28 Nov): the hook text on screen is **one phrase of 4–5 words** that opens a curiosity gap. The longer sentence goes in the voiceover. Proof: "Diagon Alley is hiding something" (5 words) got the best results ever.
+- Porto passes the **go-there test** for UK viewers (about 2 hours from London, cheap flights) and the **send test** ("monks who owned nothing built THIS?").
+- 19:30 UK keeps the first test group UK-heavy (01:00 in India). Rules in `reviews/diagnosis-2026-11-26.md`.
+
+---
+
+## The last 7 days (from `tracking/results.csv`)
+
+| Date | Post | Hook words | Views | Saves | Score | Watch · skip | Top country |
+|---|---|---|---|---|---|---|---|
+| 23 | Parrot | 11 | 126 | 0 | 0 | 8s · 42% | UK 71% |
+| 24 | Notre-Dame bees | 10 | ~1,000 | 0 | 0.2 | 11s · 43% | India 54% ❌ |
+| 25 | St Dunstan | 7 | 54 | 1 | 3.7* | 13s · 68% | (too few) |
+| 27 | Blitz churches carousel | – | no numbers yet | | | | |
+| **28** | **Diagon Alley (Leadenhall)** | **5** | **371 in 2.5h** | **6** | **1.9** | **10s · 46%** | **UK 47%** ✅ |
+
+*St Dunstan: high score only because views were tiny (54).
+
+- ✅ **Worked (28 Nov):** a 5-word hook with a famous name + "hiding something", over a bright first frame. Most saves ever, beat the usual ~120 wall in 2h, and UK viewers came back (47%, after the bees reel went to India).
+- ❌ **Didn't:** 0 follows and 0 sends again. Nobody was told a series is coming, and the profile still doesn't say what the account is.
+- 👉 **Lesson:** short curiosity hook + famous place + UK-reachable. Add the series name on the cover and one send line at the end.
+
+---
+
+## Tomorrow's reel · Hidden Europe · No. 2: the gold church of Porto
+
+**Post:** Sun 29 · **19:30 UK** · ~21s · 4 Flow clips + 1 spare · **Location tag:** Igreja de São Francisco, Porto
+**Cover:** "Hidden Europe · No. 2" (small serif) + "Porto, Portugal"
+**AI label:** on. Add "Scenes reimagined with AI" to the caption.
+
+⚠️ **Never** use @aakritiiacharya's clips, not even as a Flow ingredient (copyright). Her screenshots are used only to describe the real church in words.
+
+### Hook text (4–5 words · new rule)
+- **Use:** **Poor monks built this?** (4)
+- Spare 1: **Porto is hiding something.** (4)
+- Spare 2: **Monks who owned nothing…** (4)
+
+Put it in the **middle** of frame 1 in a small, elegant serif font on a **soft dark band** (rule 21), never on a window. Frame 1 must already show the gold (rule 20), so the 4 words + the picture make the whole question.
+
+### Facts to check before posting
+- Franciscan friars took a vow of poverty (true).
+- The church is Gothic (14th–15th c.); the gilded carved wood ("talha dourada") was added in the 17th–18th c. [check]
+- People say 300–400 kg of gold leaf were used. Numbers vary, so the script only says "covered in gold" [check before adding a number].
+- In July 1832, during the Siege of Porto, a fire destroyed the convent next to the church (true) [check the month].
+- Porto's Stock Exchange (Palácio da Bolsa) was built on the convent's ruins from 1842 (true) [check].
+- Today the church is a museum, not a working church; there are catacombs with bones under the floor [check].
+
+### Script
+
+| Clip | Time | Shot | Text on screen (CapCut) | Voiceover |
+|---|---|---|---|---|
+| 1 | 0–5s | Looking up the nave: every column and arch covered in gold, sunbeams through tall windows | **Poor monks built this?** | *Monks who vowed to own nothing… covered this church in gold.* |
+| 2 | 5–10s | A bare stone cell: a rough brown habit with a rope belt on a peg, a wooden bowl, a candle | Porto, Portugal | *They wore rough brown robes. But inside their church, almost every surface is carved wood, covered in gold.* |
+| 3 | 10–15s | Night: orange glow and smoke through a stone cloister arcade | 1832 | *In 1832, during the Siege of Porto, their convent burned.* |
+| 4 | 15–21s | Close-up of carved gold vines, a candle flame moving | 📍 Igreja de São Francisco | *The gold church survived. And on the convent's ruins… Porto built its Stock Exchange. Send this to someone who loves Porto.* |
+
+### Caption
+```
+Poor monks built this? ✨ Hidden Europe · No. 2
+
+The Church of São Francisco in Porto looks plain from outside. Inside, almost every wall, column and arch is carved wood covered in gold, built by friars who vowed to own nothing.
+
+In 1832, during the Siege of Porto, their convent next door burned. The gold church survived, and on the convent's ruins the city built the Palácio da Bolsa, its Stock Exchange.
+
+Porto is about 2 hours from London. Save this for your weekend there, and send it to someone who loves Portugal 🇵🇹
+Scenes reimagined with AI.
+```
+**Hashtags:** #porto #portugal #portotravel #igrejadesaofrancisco #hiddeneurope #hiddenstories #weekendbreak #citybreak
+
+**CTA (one only):** Send this to someone who loves Porto.
+
+---
+
+## Real-photo check (rule 7) · from Kate's 3 screenshots
+
+| Real detail | In the prompt |
+|---|---|
+| Gothic stone pointed arches and ribbed vaults, grey stone | `pointed Gothic stone arches and ribbed stone vaults` |
+| Almost every surface: carved gilded wood, very dense (vines, scrolls, leaves) | `carved wood covered in gold leaf, dense vines, scrolls and leaves` |
+| Twisted spiral (Solomonic) columns, gilded | `twisted spiral gilded columns` |
+| Painted saint statues in niches, a large carved relief panel above the altar | `painted wooden saint statues in niches` (no faces close up) |
+| Tall narrow pointed windows, pale blue and white leaded glass | `tall narrow pointed windows with pale blue-white leaded glass` |
+| Dark wooden pews, stone floor | `dark wooden pews, grey stone floor` |
+| The real church is dim; the gold glows where light hits it | keep the dark wood and stone, make it bright with **light**: sunbeams + warm spotlights |
+| ❌ Wrong looks to avoid | `white walls, marble, painted ceiling frescoes, dome, modern lights, glossy plastic gold` |
+
+**Tip (rule 11):** when clip 1 works, save its best frame (image ➕) and use it as an **ingredient** for clip 4: `exactly the same gilded carving as in the reference image`.
+
+## Flow prompts (rules 1–21 + realism block)
+Settings: Text to Video · 9:16 · Quality · 1 output. Trim each clip to ~5s and cut still frames at the start.
+
+### Clip 1 · the hook (0–5s)
+```
+Vertical 9:16 realistic lifestyle video, looks filmed on a good phone camera, photorealistic, sharp focus on the subject, true-to-life colours, gentle warm white balance, soft natural contrast, well exposed with open shadows and visible detail, matte natural textures. 24mm lens at f/4, barely perceptible slow tilt upwards. Inside the old Gothic Church of São Francisco in Porto, Portugal, standing in the central aisle looking towards the main altar. Pointed Gothic stone arches and ribbed stone vaults; almost every column, wall and arch is covered in carved wood with gold leaf: dense vines, scrolls and leaves, twisted spiral gilded columns, painted wooden saint statues in niches. Tall narrow pointed windows with pale blue-white leaded glass on the right. Dark wooden pews, grey stone floor. At 0s, soft beams of late-morning sunlight are already falling through the windows, and tiny dust motes drift slowly in the beams; the gold glows warmly where the light touches it. The middle of the frame is the calm dark wood of the aisle. No people. Colour palette: rich gold, warm amber, dark brown wood, grey stone, pale blue window light.
+Audio: a quiet echoing church room tone, one faint distant footstep. No music, no speech.
+Avoid: people, a person sitting, faces, silhouettes, hands, white walls, marble, painted ceiling frescoes, dome, modern lights, glossy plastic gold, film grain, dust specks on the lens, flickering, text, letters, numbers, timestamps, watermarks, logos, fast camera movement, dark underexposed image, crushed blacks, orange-and-teal colour grade, oversaturated colours, cyan or bright blue sky, blown-out lamp, glossy wet-looking surfaces, heavy bokeh, HDR look.
+```
+
+### Clip 2 · "they owned nothing" (5–10s)
+```
+Vertical 9:16 realistic lifestyle video, looks filmed on a good phone camera, photorealistic, sharp focus on the subject, true-to-life colours, gentle warm white balance, soft natural contrast, well exposed with open shadows and visible detail, matte natural textures. 50mm lens at f/4, locked-off camera. A bare medieval monk's cell with rough whitewashed stone walls, lit by soft daylight from a small deep window on the left. On a wooden peg hangs a rough undyed brown wool friar's habit with a hood and a knotted white rope belt. Below it, a plain wooden stool, a simple wooden bowl and spoon, a small worn book, and one short candle in a clay holder. At 0s the candle flame is already moving gently and a little steam rises from the bowl. Colour palette: rough brown wool, pale stone, warm wood, soft candle gold.
+Audio: quiet room tone, a soft breeze at the window, a distant church bell. No music, no speech.
+Avoid: people, a person sitting, faces, silhouettes, hands, gold, decoration, film grain, dust, specks, flickering, text, letters, numbers, timestamps, watermarks, logos, fast camera movement, dark underexposed image, crushed blacks, orange-and-teal colour grade, oversaturated colours, glossy wet-looking surfaces, heavy bokeh, HDR look.
+```
+
+### Clip 3 · the fire of 1832 (10–15s)
+```
+Vertical 9:16 realistic video, photorealistic, sharp focus, true-to-life colours, open shadows with visible detail. 35mm lens at f/4, locked-off camera. Night. A row of simple grey granite cloister arches of an old Portuguese convent around a courtyard. The fire itself is out of frame, below and behind the far wall; only its strong orange light is already flickering on the stone at 0s, grey smoke drifts slowly through the arches, and small glowing embers float down. Colour palette: orange glow on grey stone, smoky grey, dark night.
+Audio: a distant crackling fire, a low wind, faint far-away shouts. No music, no speech.
+Avoid: visible flames, fire on the ground, bonfire, campfire, people, faces, silhouettes, explosions, film grain, dust, specks, text, letters, numbers, timestamps, watermarks, logos, fast camera movement, crushed blacks, orange-and-teal colour grade, oversaturated colours, HDR look.
+```
+
+### Clip 4 · the ending (15–21s)
+```
+Vertical 9:16 realistic lifestyle video, looks filmed on a good phone camera, photorealistic, sharp focus on the subject, true-to-life colours, gentle warm white balance, soft natural contrast, well exposed with open shadows and visible detail, matte natural textures. 50mm lens at f/4, barely perceptible slow push-in. Close-up of carved wood covered in gold leaf in the Church of São Francisco, Porto: dense carved vines, bunches of grapes and curling leaves, with small worn patches showing dark wood underneath, a twisted spiral gilded column at the side. Soft daylight from a tall window on the left. At 0s a single candle flame in the lower foreground is already moving gently, its warm light shifting across the gold. Colour palette: rich gold, warm amber, dark brown wood.
+Audio: quiet echoing church room tone, a faint distant bell at the end. No music, no speech.
+Avoid: people, faces, hands, glossy plastic gold, film grain, dust, specks, flickering, text, letters, numbers, timestamps, watermarks, logos, fast camera movement, dark underexposed image, crushed blacks, orange-and-teal colour grade, oversaturated colours, blown-out flame, heavy bokeh, HDR look.
+```
+
+### Spare (if a clip fails twice · rule 15)
+```
+Vertical 9:16 realistic lifestyle video, looks filmed on a good phone camera, photorealistic, sharp focus on the subject, true-to-life colours, gentle warm white balance, soft natural contrast, well exposed with open shadows and visible detail, matte natural textures. 50mm lens at f/4, locked-off camera. A row of tall white candles on a dark wooden stand, already burning gently at 0s, in front of a glowing gilded carved altar in an old Gothic church, the gold softly out of focus but recognisable. Soft daylight from the side. Colour palette: warm gold, amber, cream, dark brown.
+Audio: quiet echoing church room tone. No music, no speech.
+Avoid: people, faces, hands, film grain, dust, specks, text, letters, numbers, timestamps, watermarks, logos, fast camera movement, dark underexposed image, crushed blacks, oversaturated colours, blown-out flames, heavy bokeh, HDR look.
+```
+If clip 1 fails twice → use the spare as frame 1 and change the hook text to **"Porto is hiding something."**
+
+---
+
+## Voiceover · ElevenLabs (saved voice "Kate · Hidden London", `references/voice-kate.md`)
+```
+Monks who vowed to own nothing… <break time="0.6s" /> covered this church in gold.
+They wore rough brown robes. But inside their church, almost every surface is carved wood, covered in gold.
+In 1832, during the Siege of Porto, their convent burned.
+The gold church survived. <break time="0.6s" /> And on the convent's ruins… Porto built its Stock Exchange.
+Send this to someone who loves Porto.
+```
+Say it the way it sounds if needed: `Porto` = `POR-too`.
+**In CapCut:** start the lines at 0s · 5s · 10s · 15s. Flow sound at ~20% under the voice.
+
+---
+
+## Stories · Sun 29 (stories-rule.md)
+
+| | Morning | Midday | Evening |
+|---|---|---|---|
+| Sun 29 | 🖼️ Quiz: Porto teaser | 🎬 Gold and candlelight | 🖼️ Share the reel |
+
+### Morning (10:00) · 🖼️ Image
+- **Text on screen:** Guess the city 👀
+- **Sticker:** Quiz: Lisbon / Porto / Seville (answer: Porto). Check the spelling of all 3 options.
+- **Gemini prompt:**
+```
+Vertical 9:16 (1080×1920) realistic lifestyle photo, looks taken on a good phone camera, true-to-life colours, gentle warm white balance, well exposed with open shadows. A steep old cobbled street in Porto in soft morning daylight, granite steps, old houses with blue and white tiles and iron balconies, a church bell tower in the distance, a pale grey-white sky. Colour palette: warm stone, soft gold, pale blue tiles. Quiet mood. The top third of the frame is calm and uncluttered. No text, letters, numbers, logos, watermarks or faces.
+```
+
+### Midday · 🎬 Video (trim to 5–8s)
+- **Text on screen:** Tonight: a gold secret ✨
+- **Sticker:** Countdown "Hidden Europe No. 2 · 19:30"
+- **Google Flow prompt:** use **Clip 4** above (gold vines with a candle).
+- **Spare:** use the **Spare** above (candles in front of the gold altar). If both fail twice, post a still frame as an image.
+
+### Evening (19:30) · 🖼️ Image
+- **Text on screen:** Poor monks built this? 👇
+- **Sticker:** Share the reel on this background
+- **Gemini prompt:**
+```
+Vertical 9:16 (1080×1920) realistic photo, true-to-life colours, gentle warm white balance, well exposed with open shadows. Close-up of carved wood vines and leaves covered in gold leaf, lit by soft daylight and one candle. Colour palette: rich gold, warm amber, dark brown. Calm, historical mood. The top third of the frame is calm and uncluttered. No text, letters, numbers, logos, watermarks or faces.
+```
