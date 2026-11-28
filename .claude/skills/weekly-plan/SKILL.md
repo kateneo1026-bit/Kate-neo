@@ -17,7 +17,8 @@ description: Generate next week's Instagram plan for the "Kate" account (Quiet d
 1. Read `tracking/results.csv`. Don't repeat a topic from the last 4 weeks. If there's data, lean towards the types and topics with the most saves, shares and new followers.
 2. If a review file exists in `reviews/`, follow its "Repeat" and "Stop" lists.
 3. Read `hooks/hooks-library.md` and build every hook from one of its formulas. Write the formula number next to the hook.
-4. The plan starts on the **next Monday** after today, unless Kate gives a date.
+4. **UK anchor rule (26 Nov, `reviews/diagnosis-2026-11-26.md`):** every topic must pass the send test *and* the go-there test (*could someone in the UK go there this month?*). No global landmark + animal stories on their own. Europe stories are framed for UK travellers (Eurostar, a weekend from London). Every post gets a UK location tag, local words on screen (Tube station, "free", opening hours), UK hashtags, and a save-or-send-for-a-plan CTA. For real London places, prefer Kate's own phone footage; Flow/Gemini for the past and for home scenes. Post at 19:30 UK.
+5. The plan starts on the **next Monday** after today, unless Kate gives a date.
 
 ## What to produce (exactly)
 - **3 Reels:** 2 hidden stories + 1 lifestyle (hidden stories get the reach; lifestyle reels must move, never a still collage)
@@ -29,7 +30,7 @@ Suggested days: Reel Mon, Wed, Fri · Carousel Tue, Sat · Sun = rest day (Stori
 ### For each Reel
 - **Topic:** one line
 - **Send reason (hidden stories):** one line saying why someone would send it to a friend. Best pattern: a famous UK/European place + an impossible origin or a surprising survivor. If there's no send reason, pick another topic.
-- **Hook (first 2 seconds):** the words on screen + what the viewer sees. Make it strange, specific and calm, never clickbait shouting. Add the formula number.
+- **Hook (first 2 seconds):** the words on screen + what the viewer sees. The on-screen text is **one phrase of 4–5 words** that opens a curiosity gap (Kate's rule, 28 Nov); the full sentence goes in the voiceover. Make it strange, specific and calm, never clickbait shouting. Add the formula number.
 - **Script (25–30 s):** a table with columns time · shot (filmable on an Android phone, alone) · voiceover/text. Use 5–7 shots.
 - **Caption:** first line = the hook rephrased. Then 2–4 short lines. Work in **search keywords** naturally (e.g. "hidden café in London", "quiet weekend in Bruges"), because Instagram search reads captions.
 - **Hashtags:** 5–8, a mix of niche and place tags. No huge generic tags like #love.

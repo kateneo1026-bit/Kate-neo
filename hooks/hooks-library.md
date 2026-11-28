@@ -1,5 +1,7 @@
 # Hook library: hidden stories
 
+> **Hook text on screen (Kate's rule, 28 Nov): one phrase of 4–5 words** that opens a curiosity gap (a question or a half-told secret), e.g. *"Diagon Alley is hiding something."* (best reel: 371 views in 2.5h, 6 saves) · *"Poor monks built this?"* · *"Porto is hiding something."* The full sentence (year, number, twist) goes in the **voiceover** and the caption, never on screen. Frame 1 must show the thing the words point to.
+
 There are 30 formulas to reuse. Fill in the blanks [ ] with your own place, and say or show the hook in the **first 2 seconds**.
 Tip: put the hook as text on screen **and** say it in the voiceover. Start on movement (a door opening, steam from a coffee, footsteps).
 
@@ -65,4 +67,9 @@ The examples are templates. Check every fact before you post.
 **Send test:** before using any hook, ask "Would someone send this to a friend with 'look at this'?" If not, find a stronger twist. (24 Nov: 8 of 9 reels stopped at ~120 views with 0 sends; the one with a send reached 431.)
 
 ---
-**Make your own:** strange detail + specific place + a reason to keep watching. Keep it to 12 words or fewer.
+**Hook text on screen (Kate's rule, 28 Nov): one phrase of 4–5 words** that opens a curiosity gap (a question or a half-told secret), e.g. *"Diagon Alley is hiding something."* (best reel: 371 views in 2.5h, 6 saves) · *"Poor monks built this?"* · *"Porto is hiding something."* The full sentence (year, number, twist) goes in the **voiceover** and the caption, never on screen. Frame 1 must show the thing the words point to.
+
+**Make your own:** strange detail + specific place + a reason to keep watching. The formulas above are for the voiceover; shorten them to 4–5 words for the screen.
+
+## Pop culture + a real UK place (added 27 Nov, from the big travel reels)
+34. **"London's real [famous film or book place] [impossible fact]."** e.g. "London's real Diagon Alley hides a Roman ruin in a barber's basement." The fiction gives people the reason to send it; the real place passes the go-there test. See `reviews/competitors-2026-11-27.md`.
